@@ -1,0 +1,285 @@
+Practice Test1 PHY1025
+
+(If required, use acceleration due to gravity g = 10 m/s2)
+
+Questions 1-40: 2 points each
+
+1) In science, an educated guess is a
+A) hypothesis.
+B) theory.
+C) both of these.
+
+2) Science is a body of knowledge that
+A) describes order in nature.
+B) is an ongoing activity of humans.
+C) condenses knowledge into testable laws.
+D) All of the above choices are correct.
+E) None of the above choices are correct.
+
+3) Which of the following is a scientific statement?
+A) The moon is made of green cheese.
+B) There are things we will never know about.
+C) Matter is filled with undetectable particles.
+D) There are parts of the universe that will never be found by man.
+
+4) A truly educated person is knowledgeable about
+A) science.
+B) the arts.
+C) religion.
+D) all of these
+
+5) The easiest way for you to measure the distance between the Earth and the moon is to place in your
+line of sight to the moon a
+A) magnifying glass.
+B) coin.
+C) telescope.
+D) meter stick.
+
+6) Which of the following activities involves the utmost human expression of passion, talent and
+intelligence?
+A) painting and sculpture.
+B) literature.
+C) music.
+D) science.
+E) all of these.
+
+7) The sizes of both the Moon and the Sun are the same in the sky, which indicates that
+A) both have the same diameters.
+B) both are at about the same distance from Earth.
+C) the smaller Moon is closer to Earth than the Sun.
+D) both the Moon and the Sun circle Earth.
+
+8) A person who says, “that’s only a theory” likely doesn’t know that a scientific theory is a
+A) guess that involves many facts.
+B) hypothesis of sorts.
+C) vast synthesis of well-tested hypotheses and facts.
+D) guess that may or may not be factual.
+
+9) In science, a theory is
+A) an educated guess.
+B) less than a fact.
+C) a synthesis of a large body of well-tested knowledge.
+D) unchangeable.
+
+10) A scientific hypothesis may turn out to be right or it may turn out to be wrong. If it is a valid
+hypothesis, there must be a test for proving it
+A) right.
+B) wrong.
+
+11) An object in mechanical equilibrium is an object
+A) at rest.
+B) moving with constant velocity.
+C) having no acceleration.
+D) all of these.
+
+12) When you stand at rest on a pair of bathroom scales, the readings on the scales will always
+A) each be half your weight.
+B) each equal your weight.
+C) add up to equal your weight.
+
+13) A 300-kg bear grasping a vertical tree slides down at constant velocity. The friction force between
+the tree and the bear is
+A) 30 N.
+B) 300 N.
+C) 3000 N.
+D) more than 3000 N.
+
+14) A man weighing 800 N stands at rest on two bathroom scales so that his weight is distributed
+evenly over both scales. The reading on each scale is
+A) 200 N.
+B) 400 N.
+C) 800 N.
+D) none of these
+
+15) An object slides with a constant velocity. The force of friction on the sliding object is 10 N. The
+applied force needed to maintain the constant velocity is
+A) more than 10 N.
+B) less than 10 N.
+C) 10 N.
+
+16) What is the net force on a cart that is pulled to the right with 100 N and to the left with 30 N ?
+A) 130 N to the right
+B) 70 N to the right
+C) 70 N to the left
+D) zero net force
+
+17) Whirl a rock at the end of a string and it follows a circular path. If the string breaks, the tendency of
+the rock is to
+A) continue to follow a circular path.
+B) follow a straight-line path.
+C) increase its speed.
+D) revolve in a smaller circle.
+
+18) If your automobile runs out of fuel while you are driving, the engine stops but you do not come to
+an abrupt stop. The concept that most explains why is
+A) inertia.
+B) gravity.
+C) acceleration.
+D) resistance.
+
+19) If no external forces are acting on a moving object, it will
+A) continue moving at the same speed.
+B) continue moving at the same velocity.
+C) move slower and slower until it finally stops.
+
+20) According to Newton's law of inertia, a railroad train in motion should continue going forever even
+if its engine is turned off. We never observe this because railroad trains
+A) move too slowly.
+B) are much too heavy.
+C) must go up and down hills.
+D) always have forces that oppose their motion.
+
+21) The two measurements necessary for calculating average speed are
+A) acceleration and time.
+B) velocity and time.
+C) distance and time.
+D) distance and acceleration.
+E) velocity and distance.
+
+22) What is the average speed of a cheetah that sprints 100 m in 4 seconds?
+A) 100 m/s
+B) 50 m/s
+C) 25 m/s
+D) 4 m/s
+
+23) While an object near the Earth's surface is in free fall, its
+A) velocity increases.
+B) acceleration increases.
+C) mass increases.
+D) mass decreases.
+
+24) If a freely falling object were somehow equipped with a speedometer, its speed reading would
+increase each second by about
+A) 5 m/s.
+B) 10 m/s.
+C) 15 m/s.
+D) a variable amount.
+E) depends on its initial speed
+
+25) Twelve seconds after starting from rest, an object falling freely will have a speed of
+A) 10 m/s.
+B) 50 m/s.
+C) 100 m/s.
+D) more than 100 m/s.
+
+26) If a car increases its velocity from zero to 60 km/h in 10 seconds, its acceleration is
+A) 3 km/h/s.
+B) 6 km/h/s.
+C) 10 km/h/s.
+D) 60 km/h/s.
+E) 600 km/h/s.
+
+27) If you drop an object, its acceleration toward the ground is 10 m/s/s. If you throw it down instead,
+its acceleration would be
+A) zero
+B) 10 m/s/s
+C) greater than 10 m/s/s
+
+28) What is the net force acting on the object shown below?
+A) 15 N to right
+B) 22 N to right
+C) 8 N to left
+D) 8 N to right
+
+29) In each second of fall, the distance a freely falling object will fall is
+A) about 5 m.
+B) about 10 m.
+C) the same, but not 5 m or 10 m.
+D) increasing.
+E) none of these
+
+30) Drop a rock from a 5-m height and it accelerates at 10 m/s2 and strikes the ground 1 s later. Drop
+the same rock from a height of 2.5 m and its acceleration of fall is about
+A) half as much.
+B) the same amount.
+C) twice as much.
+D) four times as much.
+
+31) Compared to a 1-kg block of solid iron, a 2-kg block of solid iron has twice as much
+A) inertia.
+B) mass.
+C) volume.
+D) all of these
+E) none of these
+
+32) You push on a crate that sits on a smooth floor and it accelerates. If you apply four times the net
+force, how much greater will be the acceleration?
+A) it will be the same
+B) twice
+C) three times
+D) four times
+
+33) What is the weight of a 2 kg rock?
+A) 2 kg
+B) 2 N
+C) 20 kg
+D) 20 N
+
+34) Consider drops of water that leak at a steady rate from a dripping faucet. As the drops fall they
+A) get closer together.
+B) get farther apart.
+C) remain at a relatively fixed distance from one another.
+
+35) A 10-N falling object encounters 4 N of air resistance. The net force on the object is
+A) 0 N.
+B) 4 N.
+C) 6 N.
+D) 10 N.
+E) none of these
+
+36) Consider a book that weighs 15 N at rest on a flat table. What is the support force provided by the
+table?
+A) 0 N
+B) 15 N
+C) 15 kg
+D) 7.5 N
+
+37) A horse gallops a distance of 10 kilometers in a time of 30 minutes. Its average speed is
+A) 15 km/h.
+B) 20 km/h.
+C) 30 km/h.
+D) 40 km/h.
+
+38) A car maintains a constant velocity of 100 km/hr for 10 seconds. During this interval its
+acceleration is
+A) zero.
+B) 10 km/hr.
+C) 110 km/hr.
+D) 1000 km/hr.
+
+39) A ball tossed vertically upward rises, reaches its highest point, and then falls back to its starting
+point. During this time the acceleration of the ball is always
+A) in the direction of motion.
+B) opposite its velocity.
+C) directed upward.
+D) directed downward.
+
+40) You toss a ball straight up with an initial speed of 30 m/s. How long does it take to reach the
+highest point?
+A) 1 s
+A) 2 s
+C) 3 s
+D) 6 s
+
+41) An empty jug of weight 10 N rests on a table.
+a) What is the support force exerted on the jug by the table? (1 point)
+b) What is the support force on the jug when the water of weight 5N is poured into the jug? (1 point)
+
+42) Can an object be in mechanical equilibrium when only a single force acts on it? Explain. (2 points)
+
+43) Consider a pair of forces, one having a magnitude of 20N and the other a magnitude of 12N. What
+maximum net force is possible for these two forces? What is the minimum net force possible? (4
+points)
+
+44) Consider a vertically launched projectile when air drag is negligible. When is the acceleration due
+to gravity if greater? When ascending, at the top, or when descending? Explain your answer. (2 points)
+
+45) A cat steps off a ledge and drops to the ground. If the ledge is 5 m above the ground, what is the
+speed of the cat on striking the ground? Show your work. (5 points)
+1)
+2)
+3)
+4)
+5)
+6) Gravity
+7)
