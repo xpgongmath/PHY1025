@@ -1,0 +1,291 @@
+Practice Test3 PHY1025
+
+(If required, use acceleration due to gravity g = 10 m/s2, density of water = 1 g/cm3 = 1000 kg/m3)
+
+1) A clerk can lift containers a vertical distance of 1 meter or can roll them up a 2 meter-long ramp to
+the same elevation. With the ramp, potential energy stored in the container at the final location is
+A) half as much.
+B) twice as much.
+C) the same.
+D) four times as much.
+
+2) In the hydraulic machine shown below, when the small piston is pushed down 10 cm, the large
+piston is raised 1 cm. If the small piston is pushed down with a force of 100 N, what is the most weight
+that the large piston can support?
+A)1 N
+B) 10 N
+C) 100 N
+D) 1000 N
+
+3) A TV set is pushed a distance of 2 m with a force of 20 N. How much work is done by the applied
+force on the set?
+A) 2 J
+B) 10 J
+C) 20 J
+D) 40 J
+E) 800 J
+
+4) No work is done by gravity on a bowling ball that rolls along a bowling alley because
+A) no force acts on the ball.
+B) no distance is covered by the ball.
+C) the force on the ball is at right angles to the ball's motion.
+D) no potential energy is being converted to kinetic energy.
+E) its kinetic energy remains constant.
+
+5) Which has greater kinetic energy, a car traveling at 30 km/hr or a car of half the mass traveling at 60
+km/hr?
+A) the 30 km/hr car
+B) the 60 km/hr car
+C) Both have the same kinetic energy.
+D) More information is needed about the distance traveled.
+
+6) If the speed of a moving object doubles, which of the following also doubles?
+A) momentum
+B) kinetic energy
+C) acceleration
+D) all of the above
+
+7) A ball rolling down an incline has its maximum kinetic energy at
+A) the top.
+B) halfway down.
+C) three-quarters of the way down.
+D) the bottom.
+
+8) A diver who weighs 500 N steps off a diving board that is 10 m above the water. The diver hits the
+water with kinetic energy of
+A) 10 J.
+B) 500 J.
+C) 510 J.
+D) 5000 J.
+E) more than 5000 J.
+
+9) If a turntable's rotational speed is doubled, then the linear speed of a pet hamster sitting on the edge
+of the record will
+A) double.
+B) halve.
+C) remain the same.
+
+10) Consider a string with several rocks tied along its length at equally spaced intervals. You whirl the string overhead so that the rocks follow circular paths. Compared to a rock in the middle of the string, a rock at the outer end moves with a linear speed
+4/13
+Practice Test3 PHY1025
+A) half as fast.
+B) twice as fast.
+C) at the same linear speed.
+
+11) An industrial flywheel has a greater rotational inertia when most of its mass is
+A) nearest the rim.
+B) nearest the axis.
+C) uniformly spread out as in a disk.
+
+12) A coin and a ring roll down an incline starting at the same time. The one to reach the bottom first
+will be the
+A) ring.
+B) coin.
+C) Both reach the bottom at the same time.
+
+13) A torque acting on an object tends to produce
+A) equilibrium.
+B) rotation.
+C) linear motion.
+D) velocity.
+E) a center of gravity.
+
+14) On a balanced seesaw, a boy three times as heavy as his partner sits
+A) 1/3 the distance from the fulcrum.
+B) less than 1/3 the distance from the fulcrum.
+C) more than 1/3 the distance from the fulcrum.
+
+15) A baseball bat is balanced on a fulcrum. The center of gravity of the bat is located
+A) closer to the handgrip.
+B) above the fulcrum.
+C) near the heavy end.
+
+16) Neglecting air resistance, which will roll from rest to the bottom of an incline first, an empty jar, or
+the same jar filled with peanut butter?
+A) the filled jar
+B) the empty jar
+C) Both reach the bottom at the same time.
+D) More information is needed.
+
+17) According to Newton, the greater the masses of interacting objects, the
+A) less the gravitational force between them.
+B) greater the gravitational force between them.
+C) greater the force between them by the square of the masses.
+
+18) Consider two planets in space that gravitationally attract each other. If the masses of both planets
+are doubled, and the distance between them is also doubled, then the force between them is
+A) one quarter.
+B) half as much.
+C) twice as much.
+D) four times as much.
+E) none of these
+
+19) If the radius of the Earth somehow decreased with no change in mass, your weight would
+A) increase.
+B) not change.
+C) decrease.
+
+20) An object is placed exactly halfway between the Earth and moon. The object will fall toward the
+A) Earth.
+B) moon.
+C) neither of these
+
+21) A weight watcher who normally weighs 400 N stands on top of a very tall ladder so she is one
+Earth radius above the Earth's surface. How much would she weigh there?
+A) 0
+B) 100 N
+C) 200 N
+D) 400 N
+E) none of these
+
+22) A very massive object A and a less massive object B move toward each other under the influence of gravitation. Which force, if either, is greater? A) the force on A
+B) the force on B
+C) Both forces are the same.
+
+23) When the distance between two stars decreases by half, the force between them
+A) decreases by one-quarter.
+B) decreases by one-half.
+C) increases to twice as much.
+D) increases to four times as much.
+E) stays the same.
+
+24) Inside a freely falling elevator, your
+A) acceleration is zero.
+B) apparent weight is zero.
+C) gravitational interaction with the Earth is zero.
+D) all of these
+E) none of these
+
+25) A rock is thrown upward at 60 degrees with respect to the horizontal. It follows a parabolic path. As
+it falls back, neglecting air drag, its vertical component of velocity
+A) increases.
+B) remains unchanged.
+C) decreases.
+
+26) A cannonball fired horizontally from a cannon begins to fall
+A) as soon as it leaves the barrel.
+B) after air friction reduces its speed.
+C) neither of these
+
+27) Ignoring air resistance, at what angle should a slingshot be oriented for maximum horizontal range?
+A) 45 degrees
+B) 90 degrees
+C) None of the above
+
+28) An Earth satellite is simply a projectile
+A) freely falling around the Earth.
+B) floating motionless in space near the Earth.
+C) approaching the Earth from outer space.
+
+29) A projectile is fired vertically from the surface of the Earth at 5 km/s. The projectile will
+A) go into circular about the Earth.
+B) go into an elliptical orbit about the Earth.
+C) rise and fall back to the Earth's surface.
+D) none of these
+
+30) A satellite in an elliptical orbit travels at constant
+A) velocity.
+B) speed.
+C) acceleration.
+D) all of these
+E) none of these
+
+31) At the instance a cannon fires a cannonball horizontally over a level range, another cannonball held
+at the side of the cannon is released and drops to the ground. Which ball, the one fired downrange or
+the one dropped from rest, strikes the ground first?
+A) the one fired downrange
+B) the one dropped from rest
+C) both hit the ground at the same time
+D) more information is needed to solve the problem
+
+32) According to Kepler's laws, the paths of planets about the sun are
+A) parabolas.
+B) circles.
+C) straight lines.
+D) ellipses.
+E) none of these
+
+33) When you stand on one foot instead of two, the force you exert on the floor is
+A) less
+B) the same
+C) more
+
+34) Water pressure is greatest against the
+A) top of a submerged object.
+8/13
+Practice Test3 PHY1025
+B) bottom of a submerged object.
+C) sides of a submerged object.
+D) is the same against all surfaces
+E) none of these
+
+35) How many forces act on a submerged body at rest in a fluid?
+A) One—buoyancy
+B) Two—buoyancy and the force due to gravity
+C) None—in accord with the equilibrium rule, ΣF = 0
+D) None of the above.
+
+36) A rock suspended by a string weighs 6 N out of water and 4 N when submerged. What is the buoyant force on the rock?
+A) 10 N
+B) 4 N
+C) 6 N
+D) 2 N
+
+37) A graduated cylinder contains 20 mL of water. You place an object in the cylinder and the water
+level rises to 32 mL. What is the volume of the object?
+A)32 mL
+B) 12 mL
+C) 52 mL
+D)20 mL
+
+38) A completely submerged object always displaces its own
+A) volume of fluid.
+B) weight of fluid.
+C) density of fluid.
+D) all of these
+
+39) Two life preservers have identical volumes, but one is filled with Styrofoam while the other is filled
+with sand. When the two life preservers are fully submerged, the buoyant force is greater on the one
+filled with
+A) Styrofoam.
+B) sand.
+C) same on each as long as their volumes are the same
+
+40) Buoyant force is greatest on a submerged
+A) 10-newton block of lead.
+B) 10-newton block of aluminum.
+C) is the same on each
+From 41-45, you must show your work.
+
+41) Consider the hydraulic press shown below. Area of the small piston (left) is 0.5 m2 and the mass on the small piston is 10 kg. The area of the large piston is 5 times the area of the small piston.
+(a) What is the pressure on the small piston due to 10 kg mass? (2 points)
+(b)What is the pressure at the right piston? (1 point)
+(c) How much weight can you lift on the large piston by using the pressure found in part (b)? (2 points)
+
+42) 150N child and a 200N child are on a seesaw as shown below.
+(a)
+If the 150N child is 4 m from the fulcrum, how far the 200N child should be, to balance the seesaw? (2 points)
+11/13
+Practice Test3 PHY1025
+(b)
+If the 150N child moves toward the fulcrum so that the distance to the fulcrum is now 3m, what is the torque produced by each child? (2 points)
+(c)
+In part (b) what happens to the balance of the seesaw? (1 point)
+
+43) A child throws a ball horizontally over a cliff. The path of the ball is shown below. The ball lands 18m downrange (horizontal distance), and the elevation of the cliff is 45m.
+(a)
+What is the initial speed of the ball? (3 points)
+(b)
+What is the horizontal speed of the ball when it hits the ground (just before it stops)? (1 points)
+(c)
+What is the vertical speed of the ball when it hits the ground (just before it stops)? (1 point)
+12/13
+
+
+44) A block of aluminum with a volume of 10 cm3 is placed in a jar of water filled to the brim. Water overflows.
+a) What the volume of the overflown water? (1 point)
+b) What is the mass of the overflown water? (1 point)
+c) What is the weight of the overflown water? (1 point)
+d) What is the buoyant force acting on the block of aluminum? (1 point)
+e) The density of aluminum is 2.7 g/cm3. Will the block of aluminum sink or float when placed in water? (1 point)
+
