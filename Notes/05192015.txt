@@ -9,4 +9,67 @@ Post a link to any video that supports the material we are learning.
 
 
 
+Lab Notes:
+
+% error
+((ACTUAL - ACCEPETED)/ACCEPTED)*100
+
+% difference
+((ABSOLUTE DIFFERENCE)/(AVERAGE))*100
+
+LAB SAFETY
+
+abide by precautions
+
+Garbage In Garbage Out
+
+There is always some uncertainty/error
+
+Error come from Bias / mistakes / etc...
+
+Dont assume the first trial is correct
+
+Parallax - diplacement based on point of view
+
+Random Errors - cannot be completely eliminated
+
+Systematic Erross - Tend to be in the same direction...
+  - Bias
+  - Improper calibration
+  - 
+
+Significant Figures:
+
+Imnportant to undestand Sig Figs
+
+Means we measured it that accurately
+
+How to understand Sig FIgs
+
+How many meaningful digits in a number
+
+1. Zeros at the left are never SIg
+2. No decimal right most non zero
+3. if dec is given the right most digit are sig
+4. 
+
+Review rules of SIG FIGS!
+
+for example 30.00 cm
+
+Introduction to Logger Pro
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
