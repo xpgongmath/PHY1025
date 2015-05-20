@@ -1,0 +1,1478 @@
+<Document>
+  <FileCoherence>1</FileCoherence>
+  <Version>3.6.1 </Version>
+  <charset>utf-8</charset>
+  <ApplicationBuildDateTime>Jul 15 2008 00:26:43</ApplicationBuildDateTime>
+  <Copyright>Copyright (c) 2008 Vernier Software &#38; Technology and its licensers</Copyright>
+  <FileName>05192015b.cmbl</FileName>
+  <FileIDString>02/19/03 07:39:13Rick Sorensen2092121068</FileIDString>
+  <CreatorOS>2</CreatorOS>
+  <CreatorApp>1</CreatorApp>
+  <AbsoluteVersion>0</AbsoluteVersion>
+  <Radians>1</Radians>
+  <NumDerivativePoints>3</NumDerivativePoints>
+  <NumSmoothingPoints>5</NumSmoothingPoints>
+  <ShowZeroOnToolbar>0</ShowZeroOnToolbar>
+  <ShowGraphMatchOnToolbar>0</ShowGraphMatchOnToolbar>
+  <GraphMatchUseConstant>1</GraphMatchUseConstant>
+  <GraphMatchUseLinear>1</GraphMatchUseLinear>
+  <GraphMatchUseQuadratic>1</GraphMatchUseQuadratic>
+  <GraphMatchNumSections>0</GraphMatchNumSections>
+  <Stationery>0</Stationery>
+  <CreationDateTime>Thu, Jan 24, 2002 9:30:02 AM</CreationDateTime>
+  <ModifiedDateTime>5/19/2015 12:42:58</ModifiedDateTime>
+  <PageBounds>0 0 14.9583333333 12.3031054759</PageBounds>
+  <ScreenResolution>0 0 1439 899</ScreenResolution>
+  <MathType>0</MathType>
+  <AllowOptionsDialogs>1</AllowOptionsDialogs>
+  <AllowAutoCurveFit>1</AllowAutoCurveFit>
+  <ReplayWindowPosition>0 85 532 349 675 1</ReplayWindowPosition>
+  <ReplayWindowSpeed>1</ReplayWindowSpeed>
+  <ReplayWindowRepeat>0</ReplayWindowRepeat>
+  <SensorConflictEnabled>1</SensorConflictEnabled>
+  <MathConstantValue>3.141592653590</MathConstantValue>
+  <MathConstantNumPlaces>3</MathConstantNumPlaces>
+  <MathConstantIncrement>1.000000000000</MathConstantIncrement>
+  <MathConstantEditable>0</MathConstantEditable>
+  <MathConstantUnits></MathConstantUnits>
+  <MathConstantName>pi</MathConstantName>
+  <Page>
+    <ID>4805 </ID>
+    <BroadcastTo>0 </BroadcastTo>
+    <Visible>0</Visible>
+    <PageTitle></PageTitle>
+    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
+    <PageDisplayPageInfo>0 </PageDisplayPageInfo>
+    <PagePageInfo></PagePageInfo>
+    <PageGraphPaper>0 </PageGraphPaper>
+    <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
+    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
+    <PageReplayWindowPosition>0 85 532 349 675</PageReplayWindowPosition>
+    <PageText>
+      <ID>4861 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>3.01218678029 0.630440695752 11.004641856 1.49013028538 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>1</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 20 </Size>
+	<Justification> 1 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x2727 0x4040 0x8b8b| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <Font>
+	<Size> 20 </Size>
+	<Justification> 1 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x2727 0x4040 0x8b8b| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TextText>Temperature Measurement Tutorial</TextText>
+      <StyleRun>
+	<Start> 0 </Start>
+	<End> 32 </End>
+	<Font>
+	  <Size> 20 </Size>
+	  <Justification> 1 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x2727 0x4040 0x8b8b| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+    <PageText>
+      <ID>4813 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.686319609846 1.8836689803 14.4157537879 10.7131853957 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>1</BackgroundTransparent>
+      <BackgroundColor>0xe6e6 0xe4e4 0xeeee| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>1</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TextText>To perform this tutorial, you should have connected one of the following combinations to your computer:
+
+1) a LabPro with a connected Stainless Steel Temperature Probe, or
+
+2) a Go!Link with a connected Stainless Steel Temperature Probe, or
+
+3) a Go!Temp.
+
+If you have not connected an interface and sensor, do so now. You may have seen one or more dialog boxes to help you with the connection. If you wish to restart, connect the hardware and reopen this file.
+
+This tutorial will show you how to make simple measurements using a Temperature Probe and Logger Pro. You will also learn to perform some basic analysis of those data.To perform this tutorial, you will also need 2 cups of water, one with hot water and the other one with cold water.
+
+If a Temperature Probe is connected as described above, the reading will also appear below the toolbar. Verify this is true before moving on. If neither of these messages appear, refer to the Logger Pro Quick Start Guide which accompanies the software or refer to the Logger Pro online help.
+
+Click the Next Page button that appears in the toolbar.  </TextText>
+      <StyleRun>
+	<Start> 0 </Start>
+	<End> 563 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <StyleRun>
+	<Start> 563 </Start>
+	<End> 566 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 1 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <StyleRun>
+	<Start> 566 </Start>
+	<End> 950 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <StyleRun>
+	<Start> 950 </Start>
+	<End> 953 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 1 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <StyleRun>
+	<Start> 953 </Start>
+	<End> 1026 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <StyleRun>
+	<Start> 1026 </Start>
+	<End> 1029 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 1 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <StyleRun>
+	<Start> 1029 </Start>
+	<End> 1117 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+  </Page>
+  <Page>
+    <ID>4812 </ID>
+    <BroadcastTo>0 </BroadcastTo>
+    <Visible>0</Visible>
+    <PageTitle></PageTitle>
+    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
+    <PageDisplayPageInfo>0 </PageDisplayPageInfo>
+    <PagePageInfo></PagePageInfo>
+    <PageGraphPaper>0 </PageGraphPaper>
+    <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
+    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
+    <PageReplayWindowPosition>0 85 532 349 675</PageReplayWindowPosition>
+    <PageGraphCartesian>
+      <ID>4863 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>5.13276170453 1.39461032878 13.5798141288 8.73066309078 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <GraphTitle></GraphTitle>
+      <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x2e</GraphTitleColor>
+      <GraphShowPoints>0</GraphShowPoints>
+      <GraphInterpolate>0</GraphInterpolate>
+      <GraphShowTangent>0</GraphShowTangent>
+      <GraphShowLegend>0</GraphShowLegend>
+      <GraphShowCursorStatus>1</GraphShowCursorStatus>
+      <GraphShowCursorDelta>1</GraphShowCursorDelta>
+      <GraphPlotBaseColumnID>4858 </GraphPlotBaseColumnID>
+      <GraphPlotTraceIDPairs>1 4858 4859 </GraphPlotTraceIDPairs>
+      <LogXAxis>0</LogXAxis>
+      <LogYAxis>0</LogYAxis>
+      <LogRightYAxis>0</LogRightYAxis>
+      <GraphShowTraceErrorBars>1</GraphShowTraceErrorBars>
+      <GraphShowBaseErrorBars>1</GraphShowBaseErrorBars>
+      <GraphConnectLines>1</GraphConnectLines>
+      <GraphBarGraph>0</GraphBarGraph>
+      <BinGraphStackColumns>0</BinGraphStackColumns>
+      <GraphShowPointProtectors>0</GraphShowPointProtectors>
+      <GraphMajorTickStyle>1</GraphMajorTickStyle>
+      <GraphMajorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMajorTickColor>
+      <GraphMinorTickStyle>0</GraphMinorTickStyle>
+      <GraphMinorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMinorTickColor>
+      <GraphPlotXAutoscale>2</GraphPlotXAutoscale>
+      <GraphPlotYAutoscale>2</GraphPlotYAutoscale>
+      <GraphPlotDoubleYAutoscale>3</GraphPlotDoubleYAutoscale>
+      <GraphPlotXAutoscaleOnFirstData>0</GraphPlotXAutoscaleOnFirstData>
+      <GraphPlotYAutoscaleOnFirstData>0</GraphPlotYAutoscaleOnFirstData>
+      <GraphPlotDoubleYAutoscaleOnFirstData>0</GraphPlotDoubleYAutoscaleOnFirstData>
+      <GraphPlotXAutoscaleHint>0</GraphPlotXAutoscaleHint>
+      <GraphPlotYAutoscaleHint>0</GraphPlotYAutoscaleHint>
+      <GraphPlotDoubleYAutoscaleHint>0</GraphPlotDoubleYAutoscaleHint>
+      <GraphPlotXMin>0</GraphPlotXMin>
+      <GraphPlotXMax>30</GraphPlotXMax>
+      <GraphPlotXTicksRotatedAngle>0</GraphPlotXTicksRotatedAngle>
+      <ShowAllValuesAsMajorTicks>0</ShowAllValuesAsMajorTicks>
+      <GraphPlotYMin>0</GraphPlotYMin>
+      <GraphPlotYMax>40</GraphPlotYMax>
+      <GraphPlotDefaultXMin>0</GraphPlotDefaultXMin>
+      <GraphPlotDefaultXMax>10</GraphPlotDefaultXMax>
+      <GraphPlotDefaultYMin>-0.5</GraphPlotDefaultYMin>
+      <GraphPlotDefaultYMax>5.5</GraphPlotDefaultYMax>
+      <GraphPlotXLabel></GraphPlotXLabel>
+      <GraphPlotYLabel></GraphPlotYLabel>
+      <GraphDrawRainbow>0</GraphDrawRainbow>
+      <GraphPlotDoubleYAxis>0</GraphPlotDoubleYAxis>
+    </PageGraphCartesian>
+    <PageText>
+      <ID>4950 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.360759643938 0.45085965101 4.83359503787 1.46338349991 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>1</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 16 </Size>
+	<Justification> 1 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x2727 0x4040 0x8b8b| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <Font>
+	<Size> 16 </Size>
+	<Justification> 1 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x2727 0x4040 0x8b8b| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TextText>Measure the room temperature</TextText>
+      <StyleRun>
+	<Start> 0 </Start>
+	<End> 28 </End>
+	<Font>
+	  <Size> 16 </Size>
+	  <Justification> 1 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x2727 0x4040 0x8b8b| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+    <PageText>
+      <ID>4862 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.56900412121 1.52451021753 4.80718678029 8.74593271085 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>1</BackgroundTransparent>
+      <BackgroundColor>0xe6e6 0xe4e4 0xeeee| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>1</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TextText>Click the Collect button in the toolbar.
+
+Keep the Temperature Probe away from warm things like the computer. What's the room temperature? Now breathe on the sensor and watch the temperature rise. After 30 seconds, data collection will stop.
+
+Proceed to the next page.  </TextText>
+      <StyleRun>
+	<Start> 0 </Start>
+	<End> 279 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+  </Page>
+  <Page>
+    <ID>4870 </ID>
+    <BroadcastTo>0 </BroadcastTo>
+    <Visible>0</Visible>
+    <PageTitle></PageTitle>
+    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
+    <PageDisplayPageInfo>0 </PageDisplayPageInfo>
+    <PagePageInfo></PagePageInfo>
+    <PageGraphPaper>0 </PageGraphPaper>
+    <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
+    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
+    <PageReplayWindowPosition>0 85 532 349 675</PageReplayWindowPosition>
+    <PageGraphCartesian>
+      <ID>4874 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>5.13276170453 1.39461032878 13.5798141288 8.73066309078 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <GraphTitle></GraphTitle>
+      <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x2e</GraphTitleColor>
+      <GraphShowPoints>0</GraphShowPoints>
+      <GraphInterpolate>0</GraphInterpolate>
+      <GraphShowTangent>0</GraphShowTangent>
+      <GraphShowLegend>0</GraphShowLegend>
+      <GraphShowCursorStatus>1</GraphShowCursorStatus>
+      <GraphShowCursorDelta>1</GraphShowCursorDelta>
+      <GraphPlotBaseColumnID>4858 </GraphPlotBaseColumnID>
+      <GraphPlotTraceIDPairs>1 4858 4859 </GraphPlotTraceIDPairs>
+      <LogXAxis>0</LogXAxis>
+      <LogYAxis>0</LogYAxis>
+      <LogRightYAxis>0</LogRightYAxis>
+      <GraphShowTraceErrorBars>1</GraphShowTraceErrorBars>
+      <GraphShowBaseErrorBars>1</GraphShowBaseErrorBars>
+      <GraphConnectLines>1</GraphConnectLines>
+      <GraphBarGraph>0</GraphBarGraph>
+      <BinGraphStackColumns>0</BinGraphStackColumns>
+      <GraphShowPointProtectors>0</GraphShowPointProtectors>
+      <GraphMajorTickStyle>1</GraphMajorTickStyle>
+      <GraphMajorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMajorTickColor>
+      <GraphMinorTickStyle>0</GraphMinorTickStyle>
+      <GraphMinorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMinorTickColor>
+      <GraphPlotXAutoscale>2</GraphPlotXAutoscale>
+      <GraphPlotYAutoscale>2</GraphPlotYAutoscale>
+      <GraphPlotDoubleYAutoscale>3</GraphPlotDoubleYAutoscale>
+      <GraphPlotXAutoscaleOnFirstData>0</GraphPlotXAutoscaleOnFirstData>
+      <GraphPlotYAutoscaleOnFirstData>0</GraphPlotYAutoscaleOnFirstData>
+      <GraphPlotDoubleYAutoscaleOnFirstData>0</GraphPlotDoubleYAutoscaleOnFirstData>
+      <GraphPlotXAutoscaleHint>0</GraphPlotXAutoscaleHint>
+      <GraphPlotYAutoscaleHint>0</GraphPlotYAutoscaleHint>
+      <GraphPlotDoubleYAutoscaleHint>0</GraphPlotDoubleYAutoscaleHint>
+      <GraphPlotXMin>0</GraphPlotXMin>
+      <GraphPlotXMax>30</GraphPlotXMax>
+      <GraphPlotXTicksRotatedAngle>0</GraphPlotXTicksRotatedAngle>
+      <ShowAllValuesAsMajorTicks>0</ShowAllValuesAsMajorTicks>
+      <GraphPlotYMin>0</GraphPlotYMin>
+      <GraphPlotYMax>40</GraphPlotYMax>
+      <GraphPlotDefaultXMin>0</GraphPlotDefaultXMin>
+      <GraphPlotDefaultXMax>10</GraphPlotDefaultXMax>
+      <GraphPlotDefaultYMin>-0.5</GraphPlotDefaultYMin>
+      <GraphPlotDefaultYMax>5.5</GraphPlotDefaultYMax>
+      <GraphPlotXLabel></GraphPlotXLabel>
+      <GraphPlotYLabel></GraphPlotYLabel>
+      <GraphDrawRainbow>0</GraphDrawRainbow>
+      <GraphPlotDoubleYAxis>0</GraphPlotDoubleYAxis>
+    </PageGraphCartesian>
+    <PageText>
+      <ID>4952 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.111454269697 0.45085965101 5.11222799242 1.329656226 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>1</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 16 </Size>
+	<Justification> 1 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x2727 0x4040 0x8b8b| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <Font>
+	<Size> 16 </Size>
+	<Justification> 1 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x2727 0x4040 0x8b8b| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TextText>Measure the temperature of hot water</TextText>
+      <StyleRun>
+	<Start> 0 </Start>
+	<End> 36 </End>
+	<Font>
+	  <Size> 16 </Size>
+	  <Justification> 1 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x2727 0x4040 0x8b8b| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+    <PageText>
+      <ID>4872 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.407689374999 1.39078128025 4.80718678029 8.74593271085 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>1</BackgroundTransparent>
+      <BackgroundColor>0xe6e6 0xe4e4 0xeeee| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>1</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TextText>Click the Collect button. After 3 to 4 seconds, place the Temperature Probe in the cup of hot water to measure the temperature. Allow Logger Pro to complete data collection.
+
+Notice that the sensor does not read the new temperature instantly, but that it takes a little while to respond. This is a characteristic of the sensor. About how long does it take for your sensor to stabilize at the water's temperature?
+
+Proceed to the next page. </TextText>
+      <StyleRun>
+	<Start> 0 </Start>
+	<End> 141 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <StyleRun>
+	<Start> 141 </Start>
+	<End> 144 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 1 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <StyleRun>
+	<Start> 144 </Start>
+	<End> 448 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+  </Page>
+  <Page>
+    <ID>4876 </ID>
+    <BroadcastTo>0 </BroadcastTo>
+    <Visible>0</Visible>
+    <PageTitle></PageTitle>
+    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
+    <PageDisplayPageInfo>0 </PageDisplayPageInfo>
+    <PagePageInfo></PagePageInfo>
+    <PageGraphPaper>0 </PageGraphPaper>
+    <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
+    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
+    <PageReplayWindowPosition>0 85 532 349 675</PageReplayWindowPosition>
+    <PageGraphCartesian>
+      <ID>4880 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>5.13276170453 1.39461032878 13.5798141288 8.73066309078 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <GraphTitle></GraphTitle>
+      <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x2e</GraphTitleColor>
+      <GraphShowPoints>0</GraphShowPoints>
+      <GraphInterpolate>0</GraphInterpolate>
+      <GraphShowTangent>0</GraphShowTangent>
+      <GraphShowLegend>0</GraphShowLegend>
+      <GraphShowCursorStatus>1</GraphShowCursorStatus>
+      <GraphShowCursorDelta>1</GraphShowCursorDelta>
+      <GraphPlotBaseColumnID>4858 </GraphPlotBaseColumnID>
+      <GraphPlotTraceIDPairs>1 4858 4859 </GraphPlotTraceIDPairs>
+      <LogXAxis>0</LogXAxis>
+      <LogYAxis>0</LogYAxis>
+      <LogRightYAxis>0</LogRightYAxis>
+      <GraphShowTraceErrorBars>1</GraphShowTraceErrorBars>
+      <GraphShowBaseErrorBars>1</GraphShowBaseErrorBars>
+      <GraphConnectLines>1</GraphConnectLines>
+      <GraphBarGraph>0</GraphBarGraph>
+      <BinGraphStackColumns>0</BinGraphStackColumns>
+      <GraphShowPointProtectors>0</GraphShowPointProtectors>
+      <GraphMajorTickStyle>1</GraphMajorTickStyle>
+      <GraphMajorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMajorTickColor>
+      <GraphMinorTickStyle>0</GraphMinorTickStyle>
+      <GraphMinorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMinorTickColor>
+      <GraphPlotXAutoscale>2</GraphPlotXAutoscale>
+      <GraphPlotYAutoscale>2</GraphPlotYAutoscale>
+      <GraphPlotDoubleYAutoscale>3</GraphPlotDoubleYAutoscale>
+      <GraphPlotXAutoscaleOnFirstData>0</GraphPlotXAutoscaleOnFirstData>
+      <GraphPlotYAutoscaleOnFirstData>0</GraphPlotYAutoscaleOnFirstData>
+      <GraphPlotDoubleYAutoscaleOnFirstData>0</GraphPlotDoubleYAutoscaleOnFirstData>
+      <GraphPlotXAutoscaleHint>0</GraphPlotXAutoscaleHint>
+      <GraphPlotYAutoscaleHint>0</GraphPlotYAutoscaleHint>
+      <GraphPlotDoubleYAutoscaleHint>0</GraphPlotDoubleYAutoscaleHint>
+      <GraphPlotXMin>0</GraphPlotXMin>
+      <GraphPlotXMax>30</GraphPlotXMax>
+      <GraphPlotXTicksRotatedAngle>0</GraphPlotXTicksRotatedAngle>
+      <ShowAllValuesAsMajorTicks>0</ShowAllValuesAsMajorTicks>
+      <GraphPlotYMin>0</GraphPlotYMin>
+      <GraphPlotYMax>40</GraphPlotYMax>
+      <GraphPlotDefaultXMin>0</GraphPlotDefaultXMin>
+      <GraphPlotDefaultXMax>10</GraphPlotDefaultXMax>
+      <GraphPlotDefaultYMin>-0.5</GraphPlotDefaultYMin>
+      <GraphPlotDefaultYMax>5.5</GraphPlotDefaultYMax>
+      <GraphPlotXLabel></GraphPlotXLabel>
+      <GraphPlotYLabel></GraphPlotYLabel>
+      <GraphDrawRainbow>0</GraphDrawRainbow>
+      <GraphPlotDoubleYAxis>0</GraphPlotDoubleYAxis>
+    </PageGraphCartesian>
+    <PageText>
+      <ID>4954 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.111454269697 0.0878786594851 5.30287874999 1.36175070521 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>1</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 16 </Size>
+	<Justification> 1 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x2727 0x4040 0x8b8b| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <Font>
+	<Size> 16 </Size>
+	<Justification> 1 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x2727 0x4040 0x8b8b| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TextText>Store the first run and then measure the temperature of the cold water </TextText>
+      <StyleRun>
+	<Start> 0 </Start>
+	<End> 71 </End>
+	<Font>
+	  <Size> 16 </Size>
+	  <Justification> 1 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x2727 0x4040 0x8b8b| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+    <PageText>
+      <ID>4878 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.34902823106 1.39078128025 4.85119147726 8.86055466275 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>1</BackgroundTransparent>
+      <BackgroundColor>0xe6e6 0xe4e4 0xeeee| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>1</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TextText>When you get a useful run, you will often want to preserve it for comparison to subsequent runs. To store your current run, pull down the Experiment menu and choose Store Latest Run. This run will be preserved when you collect additional data.
+
+Note: This action does not, however, save the data to disk. You do that using the File menu.
+
+Click the Collect button. After 3 to 4 seconds, move the Temperature Probe from the hot water to the cold water. Allow Logger Pro to complete data collection.
+
+What is the temperature of your cold water?
+
+Proceed to the next page. </TextText>
+      <StyleRun>
+	<Start> 0 </Start>
+	<End> 466 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <StyleRun>
+	<Start> 466 </Start>
+	<End> 469 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 1 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <StyleRun>
+	<Start> 469 </Start>
+	<End> 583 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+  </Page>
+  <Page>
+    <ID>4881 </ID>
+    <BroadcastTo>0 </BroadcastTo>
+    <Visible>0</Visible>
+    <PageTitle></PageTitle>
+    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
+    <PageDisplayPageInfo>0 </PageDisplayPageInfo>
+    <PagePageInfo></PagePageInfo>
+    <PageGraphPaper>0 </PageGraphPaper>
+    <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
+    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
+    <PageReplayWindowPosition>0 85 532 349 675</PageReplayWindowPosition>
+    <PageTable>
+      <ID>4920 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>4.79254121211 0.454680382739 11.3918043182 12.2075954995 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>1</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 2 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TableColumn> 4858 1.12627410984 </TableColumn>
+      <TableColumn> 4859 1.12627410984 </TableColumn>
+      <StartIndex> 0 </StartIndex>
+      <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
+    </PageTable>
+    <PageText>
+      <ID>4956 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.111454269697 0.286561533186 4.55496208333 1.25323660133 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>1</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 16 </Size>
+	<Justification> 1 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x2727 0x4040 0x8b8b| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <Font>
+	<Size> 16 </Size>
+	<Justification> 1 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x2727 0x4040 0x8b8b| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TextText> View the data table</TextText>
+      <StyleRun>
+	<Start> 0 </Start>
+	<End> 20 </End>
+	<Font>
+	  <Size> 16 </Size>
+	  <Justification> 1 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x2727 0x4040 0x8b8b| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+    <PageText>
+      <ID>4933 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.612999299241 1.25705067963 4.55788575756 9.18530854302 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>1</BackgroundTransparent>
+      <BackgroundColor>0xe6e6 0xe4e4 0xeeee| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>1</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TextText>Up until now the data have been displayed in graphs. Data can also be displayed in a data table, like the one shown to the right. Notice that both runs of data are displayed.
+
+Proceed to the next page. </TextText>
+      <StyleRun>
+	<Start> 0 </Start>
+	<End> 207 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+  </Page>
+  <Page>
+    <ID>4934 </ID>
+    <BroadcastTo>0 </BroadcastTo>
+    <Visible>1</Visible>
+    <PageTitle></PageTitle>
+    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
+    <PageDisplayPageInfo>0 </PageDisplayPageInfo>
+    <PagePageInfo></PagePageInfo>
+    <PageGraphPaper>0 </PageGraphPaper>
+    <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
+    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
+    <PageReplayWindowPosition>0 85 532 349 675</PageReplayWindowPosition>
+    <PageText>
+      <ID>4938 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>2.46079541666 1.12332174236 12.3450309091 9.94948815619 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>1</BackgroundTransparent>
+      <BackgroundColor>0xe6e6 0xe4e4 0xeeee| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>1</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TextText>The examples in this tutorial are time-based experiment. In this type of experiment, the equipment makes repeated measurements at regular time intervals. There are times when you are not interested in time-based data. For example, suppose you want to measure the temperature of a water sample as you add warmer water. You might add 10 mL of water, stop, stir the water and wait for the temperature to become stable. When the temperature becomes stable, you would then have Logger Pro collect that temperature, and you would enter the volume of warmer water that has been added. This type of data collection is called Events with Entry.
+
+The next tutorial teaches you how to perform this type of experiment. Open the Events with Entry tutorial file to learn about this process. </TextText>
+      <StyleRun>
+	<Start> 0 </Start>
+	<End> 480 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <StyleRun>
+	<Start> 480 </Start>
+	<End> 483 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 1 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <StyleRun>
+	<Start> 483 </Start>
+	<End> 617 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <StyleRun>
+	<Start> 617 </Start>
+	<End> 634 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 1 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <StyleRun>
+	<Start> 634 </Start>
+	<End> 780 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+  </Page>
+  <CurrentPageIndex>5</CurrentPageIndex>
+  <DataSet>
+    <ID>4857 </ID>
+    <BroadcastTo>3 4 9 4920 </BroadcastTo>
+    <Visible>1</Visible>
+    <DataSetName>Latest</DataSetName>
+    <DataSetComments></DataSetComments>
+    <DataSetSourceName></DataSetSourceName>
+    <DataSetShowInDataBrowser>1</DataSetShowInDataBrowser>
+    <DataSetHistogram>0</DataSetHistogram>
+    <DataSetFFT>0</DataSetFFT>
+    <DataSetLatest>1</DataSetLatest>
+    <DataSetAutoCreated>0</DataSetAutoCreated>
+    <DataSetStoredRun>0</DataSetStoredRun>
+    <DataSetPrediction>0</DataSetPrediction>
+    <DataSetVideoAnalysis>0</DataSetVideoAnalysis>
+    <DataSetGraphMatch>0</DataSetGraphMatch>
+    <DataColumn>
+      <ID>4858 </ID>
+      <BroadcastTo>4 4863 4874 4880 4920 </BroadcastTo>
+      <Visible>1</Visible>
+      <DataObjectName>Time</DataObjectName>
+      <DataObjectShortName>t</DataObjectShortName>
+      <DataObjectColor>0x0 0x0 0x0| 0xffff 0x2e</DataObjectColor>
+      <DataObjectDataSource>4969</DataObjectDataSource>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>1</DataObjectPrecision>
+      <DataObjectAutomaticDecimal>0</DataObjectAutomaticDecimal>
+      <DataObjectThickLines>1</DataObjectThickLines>
+      <ColumnUnits>s</ColumnUnits>
+      <ColumnCollectionTimeUnit>1</ColumnCollectionTimeUnit>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnTreatAsText>0</ColumnTreatAsText>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1432053727</StartTime>
+      <TimeOfDayFormat>hh:mm:ss</TimeOfDayFormat>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnPPStyle>0</ColumnPPStyle>
+      <ColumnPPSize>2</ColumnPPSize>
+      <ColumnDisplayPPInterval>1</ColumnDisplayPPInterval>
+      <ColumnDisplayPPIntervalAuto>0</ColumnDisplayPPIntervalAuto>
+      <ColumnDisplayPPFromColumn>0</ColumnDisplayPPFromColumn>
+      <ColumnDisplayPPColumnID>0</ColumnDisplayPPColumnID>
+      <ColumnUseErrorCalculations>0</ColumnUseErrorCalculations>
+      <ColumnErrorFixed>1</ColumnErrorFixed>
+      <ColumnErrorConstant>1</ColumnErrorConstant>
+      <ColumnErrorValue>0</ColumnErrorValue>
+      <ColumnErrorColumnID>0</ColumnErrorColumnID>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnAllowUserDelete>0</ColumnAllowUserDelete>
+      <ColumnMatchTag>Time</ColumnMatchTag>
+      <ColumnStartCollectTime>1432053727</ColumnStartCollectTime>
+      <ColumnGenerateValues>0</ColumnGenerateValues>
+      <ColumnGenerateType>0</ColumnGenerateType>
+      <ColumnStart>0</ColumnStart>
+      <ColumnEnd>0</ColumnEnd>
+      <ColumnIncrement>0</ColumnIncrement>
+      <ColumnNameStart>0</ColumnNameStart>
+      <ColumnNumber>12</ColumnNumber>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <ColumnLastDataCollectedMode>0</ColumnLastDataCollectedMode>
+      <SensorvilleCalcEquation></SensorvilleCalcEquation>
+      <LQCalcEquationDependentStores></LQCalcEquationDependentStores>
+      <ColumnCells>
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+4.5
+5
+5.5
+6
+6.5
+7
+7.5
+8
+8.5
+9
+9.5
+10
+10.5
+11
+11.5
+12
+12.5
+13
+13.5
+14
+14.5
+15
+15.5
+16
+16.5
+17
+17.5
+18
+18.5
+19
+19.5
+20
+20.5
+21
+21.5
+22
+22.5
+23
+23.5
+24
+24.5
+25
+25.5
+26
+26.5
+27
+27.5
+28
+28.5
+29
+29.5
+30
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>4859 </ID>
+      <BroadcastTo>5 4 4863 4874 4880 4920 </BroadcastTo>
+      <Visible>1</Visible>
+      <DataObjectName>Temperature</DataObjectName>
+      <DataObjectShortName>Temp</DataObjectShortName>
+      <DataObjectColor>0xffff 0x0 0x3333| 0xffff 0xffffffff</DataObjectColor>
+      <DataObjectDataSource>10718</DataObjectDataSource>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>1</DataObjectPrecision>
+      <DataObjectAutomaticDecimal>0</DataObjectAutomaticDecimal>
+      <DataObjectThickLines>1</DataObjectThickLines>
+      <ColumnUnits>&#176;C</ColumnUnits>
+      <ColumnProtected>1</ColumnProtected>
+      <ColumnUserEditable>0</ColumnUserEditable>
+      <ColumnTreatAsText>0</ColumnTreatAsText>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1118960710</StartTime>
+      <TimeOfDayFormat>hh:mm:ss</TimeOfDayFormat>
+      <ColumnUserCreated>0</ColumnUserCreated>
+      <ColumnPPStyle>2</ColumnPPStyle>
+      <ColumnPPSize>2</ColumnPPSize>
+      <ColumnDisplayPPInterval>1</ColumnDisplayPPInterval>
+      <ColumnDisplayPPIntervalAuto>0</ColumnDisplayPPIntervalAuto>
+      <ColumnDisplayPPFromColumn>0</ColumnDisplayPPFromColumn>
+      <ColumnDisplayPPColumnID>0</ColumnDisplayPPColumnID>
+      <ColumnUseErrorCalculations>0</ColumnUseErrorCalculations>
+      <ColumnErrorFixed>1</ColumnErrorFixed>
+      <ColumnErrorConstant>1</ColumnErrorConstant>
+      <ColumnErrorValue>0</ColumnErrorValue>
+      <ColumnErrorColumnID>0</ColumnErrorColumnID>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <ColumnSensorColumn>1</ColumnSensorColumn>
+      <ColumnSensorInputColumn>1</ColumnSensorInputColumn>
+      <ColumnAllowUserDelete>1</ColumnAllowUserDelete>
+      <ColumnMatchTag>Temperature</ColumnMatchTag>
+      <ColumnStartCollectTime>0</ColumnStartCollectTime>
+      <ColumnGenerateValues>0</ColumnGenerateValues>
+      <ColumnGenerateType>0</ColumnGenerateType>
+      <ColumnStart>0</ColumnStart>
+      <ColumnEnd>0</ColumnEnd>
+      <ColumnIncrement>0</ColumnIncrement>
+      <ColumnNameStart>0</ColumnNameStart>
+      <ColumnNumber>12</ColumnNumber>
+      <ColumnShowLiveReadout>1</ColumnShowLiveReadout>
+      <ColumnLastDataCollectedMode>0</ColumnLastDataCollectedMode>
+      <SensorvilleCalcEquation></SensorvilleCalcEquation>
+      <LQCalcEquationDependentStores></LQCalcEquationDependentStores>
+      <ColumnCells>
+28.3509988412
+28.3509988412
+28.4674123142
+28.700148032
+29.0494256838
+29.3524461233
+29.6326231412
+29.8895295022
+30.123307793
+30.2869436213
+30.4742796056
+30.6383425878
+30.7790877743
+30.9431775337
+31.0841162375
+31.1779988066
+31.3190944463
+31.4130838343
+31.5073099629
+31.6249148417
+31.7427840916
+31.8605333631
+31.9076538072
+31.9785502008
+32.0728637256
+32.1436311758
+32.2146201429
+32.30905843
+32.3562967255
+32.4273720832
+32.4982831533
+32.5692238856
+32.616534346
+32.7113896669
+32.7824214164
+32.8771786364
+32.9721860222
+33.0196137744
+33.1384402474
+33.1859183468
+33.2809184064
+33.3522072143
+33.3761724536
+33.4475062184
+33.542670907
+33.542670907
+33.5902761882
+33.6380920908
+33.6857283802
+33.7333802907
+33.7810479212
+33.8048876626
+33.8527745488
+33.9004819799
+33.9243417149
+33.9482054795
+33.9959451475
+34.0198210758
+34.0437010836
+34.0916692099
+34.1155615653
+</ColumnCells>
+    </DataColumn>
+  </DataSet>
+  <DataSet>
+    <ID>4875 </ID>
+    <BroadcastTo>1 9 </BroadcastTo>
+    <Visible>1</Visible>
+    <DataSetName>&#38;&#38;^% CurveFitFunctions %^&#38;&#38;</DataSetName>
+    <DataSetComments></DataSetComments>
+    <DataSetSourceName></DataSetSourceName>
+    <DataSetShowInDataBrowser>0</DataSetShowInDataBrowser>
+    <DataSetHistogram>0</DataSetHistogram>
+    <DataSetFFT>0</DataSetFFT>
+    <DataSetLatest>0</DataSetLatest>
+    <DataSetAutoCreated>0</DataSetAutoCreated>
+    <DataSetStoredRun>0</DataSetStoredRun>
+    <DataSetPrediction>0</DataSetPrediction>
+    <DataSetVideoAnalysis>0</DataSetVideoAnalysis>
+    <DataSetGraphMatch>0</DataSetGraphMatch>
+  </DataSet>
+  <DataSourceServer>
+    <ID>13 </ID>
+    <BroadcastTo>0 </BroadcastTo>
+    <Visible>1</Visible>
+    <MBLLabProSource>
+      <ID>10718 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <MBLPortRef>&#60;PortRef PortType="2" Location="41121816 (USB)" DisplayName="41121816 (USB)" /&#62;</MBLPortRef>
+      <MBLAnalogOutWaveForm>0</MBLAnalogOutWaveForm>
+      <MBLAnalogOutFrequency>1</MBLAnalogOutFrequency>
+      <MBLAnalogOutAmplitude>2</MBLAnalogOutAmplitude>
+      <MBLAnalogOutCreateConstant>0</MBLAnalogOutCreateConstant>
+      <MBLSerialNumber>0</MBLSerialNumber>
+      <MBLLabPro_EnhancedTiming>1</MBLLabPro_EnhancedTiming>
+    </MBLLabProSource>
+  </DataSourceServer>
+  <MBLBrain>
+    <MBLCollectionUserCollectMode>0</MBLCollectionUserCollectMode>
+    <MBLCollectionDropCounterMode>0</MBLCollectionDropCounterMode>
+    <MBLCollectionTimeUnit>1</MBLCollectionTimeUnit>
+    <MBLCollectionSampleAtZero>1</MBLCollectionSampleAtZero>
+    <MBLCollectionRepeat>0</MBLCollectionRepeat>
+    <MBLCollectionEnhancedTiming>1</MBLCollectionEnhancedTiming>
+    <MBLFastStart>0</MBLFastStart>
+    <MBLCollectionDeltaT>0.5</MBLCollectionDeltaT>
+    <MBLCollectionNumSamples>61</MBLCollectionNumSamples>
+    <MBLCollectionMaxDuration>30</MBLCollectionMaxDuration>
+    <MBLCollectionOversampling>1</MBLCollectionOversampling>
+    <MBLCollectionNumEWEColumns>1</MBLCollectionNumEWEColumns>
+    <MBLColumnHeader>
+      <MBLColumnHeaderName></MBLColumnHeaderName>
+      <MBLColumnHeaderShortName></MBLColumnHeaderShortName>
+      <MBLColumnHeaderUnits></MBLColumnHeaderUnits>
+    </MBLColumnHeader>
+    <MBLColumnHeader>
+      <MBLColumnHeaderName></MBLColumnHeaderName>
+      <MBLColumnHeaderShortName></MBLColumnHeaderShortName>
+      <MBLColumnHeaderUnits></MBLColumnHeaderUnits>
+    </MBLColumnHeader>
+    <MBLColumnHeader>
+      <MBLColumnHeaderName></MBLColumnHeaderName>
+      <MBLColumnHeaderShortName></MBLColumnHeaderShortName>
+      <MBLColumnHeaderUnits></MBLColumnHeaderUnits>
+    </MBLColumnHeader>
+    <MBLCollectionSelectedEventTime>0</MBLCollectionSelectedEventTime>
+    <MBLCollectionSelectedEventName></MBLCollectionSelectedEventName>
+    <MBLCollectionSelectedEventShortName></MBLCollectionSelectedEventShortName>
+    <MBLCollectionSelectedEventUnits></MBLCollectionSelectedEventUnits>
+    <MBLCollectionEndDigitalAfterNum>0</MBLCollectionEndDigitalAfterNum>
+    <MBLCollectionNumDigitalEvents>10</MBLCollectionNumDigitalEvents>
+    <MBLCollectionTriggerEnabled>0</MBLCollectionTriggerEnabled>
+    <MBLTriggerType>0</MBLTriggerType>
+    <MBLTriggerValue>10</MBLTriggerValue>
+    <MBLTriggerUseConstant>0</MBLTriggerUseConstant>
+    <MBLTriggerConstant></MBLTriggerConstant>
+    <MBLTriggerPreTriggerData>0</MBLTriggerPreTriggerData>
+    <MBLRadiationInterval>5</MBLRadiationInterval>
+    <MBLRadiationIntervalTimeUnit>1</MBLRadiationIntervalTimeUnit>
+    <MBLStoreLatestMax>0</MBLStoreLatestMax>
+    <MBLEWEAverageData>0</MBLEWEAverageData>
+    <MBLSEAverageData>0</MBLSEAverageData>
+    <MBLContinuous>0</MBLContinuous>
+    <MBLChannel>
+      <MBLChannelIndex>1</MBLChannelIndex>
+      <MBLChannelSensorIDName>TMP</MBLChannelSensorIDName>
+      <MBLChannelSensorAutoID>10</MBLChannelSensorAutoID>
+      <MBLChannelCalibrationStorage>2</MBLChannelCalibrationStorage>
+      <MBLChannelReverse>0</MBLChannelReverse>
+      <MBLChannelOffset>0</MBLChannelOffset>
+      <MBLChannelX4Mode>0</MBLChannelX4Mode>
+      <MBLChannelResetOnCollect>1</MBLChannelResetOnCollect>
+      <MBLChannelTrigger>0</MBLChannelTrigger>
+      <MBLCalibration>
+	<MBLCalibrationUnits>C</MBLCalibrationUnits>
+	<MBLCalibrationPrettyUnits>°C</MBLCalibrationPrettyUnits>
+	<MBLCalibrationIDName>TMPC</MBLCalibrationIDName>
+	<MBLCalibrationUserName>SS Temperature °C</MBLCalibrationUserName>
+	<MBLCalibrationEquationType>12</MBLCalibrationEquationType>
+	<MBLCalibrationIDValue>10</MBLCalibrationIDValue>
+	<MBLCalibrationInterfaceOp>14</MBLCalibrationInterfaceOp>
+	<MBLCalibrationCoefficients>3 0.00102119 0.000222468 1.33342e-007 </MBLCalibrationCoefficients>
+	<MBLCalibrationYMin>0</MBLCalibrationYMin>
+	<MBLCalibrationYMax>50</MBLCalibrationYMax>
+	<MBLCalibrationNumPlaces>1</MBLCalibrationNumPlaces>
+	<MBLCalibrationDDSIndex>0</MBLCalibrationDDSIndex>
+	<MBLCalibrationRangeDesc></MBLCalibrationRangeDesc>
+	<MBLCalibrationColumnName>Temperature</MBLCalibrationColumnName>
+	<MBLCalibrationShortColumnName>Temp</MBLCalibrationShortColumnName>
+	<MBLCalibrationExperimentType>1</MBLCalibrationExperimentType>
+	<MBLCalibrationTrace>1</MBLCalibrationTrace>
+      </MBLCalibration>
+      <MBLColumnHeaderName>Temperature</MBLColumnHeaderName>
+      <MBLColumnHeaderShortName>Temp</MBLColumnHeaderShortName>
+      <MBLChannelMatch0>4859
+Temperature</MBLChannelMatch0>
+      <MBLSensorSourceID>10718</MBLSensorSourceID>
+      <MBLSensorPhotogateUnitsMeters>1</MBLSensorPhotogateUnitsMeters>
+      <MBLSensorPhotogateUnits>m</MBLSensorPhotogateUnits>
+      <MBLSensorOceanOpticsWavelength>-1</MBLSensorOceanOpticsWavelength>
+      <MBLSensorOceanOpticsWavelengthEnd>-1</MBLSensorOceanOpticsWavelengthEnd>
+      <MBLChannelZeroDefault>0</MBLChannelZeroDefault>
+    </MBLChannel>
+    <MBLGoogleMapsMarkerOptions>0</MBLGoogleMapsMarkerOptions>
+    <MBLGoogleMapsValueColumn></MBLGoogleMapsValueColumn>
+    <MBLGoogleMapsOpenAnnotations>0</MBLGoogleMapsOpenAnnotations>
+  </MBLBrain>
+  <FileCoherence>1</FileCoherence>
+</Document>

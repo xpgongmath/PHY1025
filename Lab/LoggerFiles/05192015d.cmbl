@@ -1,0 +1,1667 @@
+<Document>
+  <FileCoherence>1</FileCoherence>
+  <Version>3.6.1 </Version>
+  <charset>utf-8</charset>
+  <ApplicationBuildDateTime>Jul 15 2008 00:26:43</ApplicationBuildDateTime>
+  <Copyright>Copyright (c) 2008 Vernier Software &#38; Technology and its licensers</Copyright>
+  <FileName>05192015d.cmbl</FileName>
+  <FileIDString>Tue Jan 01 13:05:54 2002Rick Sorensen297113648</FileIDString>
+  <CreatorOS>2</CreatorOS>
+  <CreatorApp>1</CreatorApp>
+  <AbsoluteVersion>0</AbsoluteVersion>
+  <Radians>1</Radians>
+  <NumDerivativePoints>3</NumDerivativePoints>
+  <NumSmoothingPoints>5</NumSmoothingPoints>
+  <ShowZeroOnToolbar>0</ShowZeroOnToolbar>
+  <ShowGraphMatchOnToolbar>0</ShowGraphMatchOnToolbar>
+  <GraphMatchUseConstant>1</GraphMatchUseConstant>
+  <GraphMatchUseLinear>1</GraphMatchUseLinear>
+  <GraphMatchUseQuadratic>1</GraphMatchUseQuadratic>
+  <GraphMatchNumSections>0</GraphMatchNumSections>
+  <Stationery>0</Stationery>
+  <CreationDateTime>4/5/2001 7:12:39</CreationDateTime>
+  <ModifiedDateTime>5/19/2015 12:58:24</ModifiedDateTime>
+  <PageBounds>0 0 14.9583333333 12.3031054759</PageBounds>
+  <ScreenResolution>0 0 1439 899</ScreenResolution>
+  <MathType>0</MathType>
+  <AllowOptionsDialogs>1</AllowOptionsDialogs>
+  <AllowAutoCurveFit>1</AllowAutoCurveFit>
+  <ReplayWindowPosition>0 104 708 368 851 1</ReplayWindowPosition>
+  <ReplayWindowSpeed>1</ReplayWindowSpeed>
+  <ReplayWindowRepeat>0</ReplayWindowRepeat>
+  <SensorConflictEnabled>0</SensorConflictEnabled>
+  <MathConstantValue>3.141592653590</MathConstantValue>
+  <MathConstantNumPlaces>3</MathConstantNumPlaces>
+  <MathConstantIncrement>1.000000000000</MathConstantIncrement>
+  <MathConstantEditable>0</MathConstantEditable>
+  <MathConstantUnits></MathConstantUnits>
+  <MathConstantName>pi</MathConstantName>
+  <Page>
+    <ID>864 </ID>
+    <BroadcastTo>0 </BroadcastTo>
+    <Visible>0</Visible>
+    <PageTitle>Introduction</PageTitle>
+    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
+    <PageDisplayPageInfo>0 </PageDisplayPageInfo>
+    <PagePageInfo></PagePageInfo>
+    <PageGraphPaper>0 </PageGraphPaper>
+    <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
+    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
+    <PageReplayWindowPosition>0 84 531 348 674</PageReplayWindowPosition>
+    <PageText>
+      <ID>865 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>3.00916791661 0.974915340235 10.8038874241 11.0260296377 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>1</BackgroundTransparent>
+      <BackgroundColor>0xe6e6 0xe4e4 0xeeee| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>1</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 11 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TextText>An important feature of Logger Pro is the ability to manually enter data, graph the data, and analyze it. This tutorial will guide you through some of the basic features of manually entering data into Logger Pro and the following basic steps:
+
+-  using tool tips
+-  data entry
+-  editing data
+-  naming columns
+-  using the Examine feature
+-  creating new columns
+-  inserting a graph
+-  adding new pages
+
+As you work through the pages of this tutorial, you'll find that many options and features are only a click away.
+
+Click the Next Page button to continue the tutorial.</TextText>
+      <StyleRun>
+	<Start> 0 </Start>
+	<End> 30 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <StyleRun>
+	<Start> 30 </Start>
+	<End> 34 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 1 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <StyleRun>
+	<Start> 34 </Start>
+	<End> 208 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <StyleRun>
+	<Start> 208 </Start>
+	<End> 211 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 1 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <StyleRun>
+	<Start> 211 </Start>
+	<End> 600 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+  </Page>
+  <Page>
+    <ID>227 </ID>
+    <BroadcastTo>0 </BroadcastTo>
+    <Visible>0</Visible>
+    <PageTitle>Data Entry</PageTitle>
+    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
+    <PageDisplayPageInfo>0 </PageDisplayPageInfo>
+    <PagePageInfo></PagePageInfo>
+    <PageGraphPaper>0 </PageGraphPaper>
+    <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
+    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
+    <PageReplayWindowPosition>0 104 708 368 851</PageReplayWindowPosition>
+    <PageTable>
+      <ID>199 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>8.11567094686 0.431889060944 13.1028880681 11.6220770945 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>1</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 2 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0xffff 0xcccc 0xcccc| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TableColumn> 220 1.40783753788 </TableColumn>
+      <TableColumn> 221 1.45180143939 </TableColumn>
+      <StartIndex> 0 </StartIndex>
+      <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
+    </PageTable>
+    <PageText>
+      <ID>205 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>1.42894238636 0.43966858306 7.13664803019 11.9509062001 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>1</BackgroundTransparent>
+      <BackgroundColor>0xe6e6 0xe4e4 0xeeee| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>1</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TextText>In most cities throughout the world, landfill space is a serious issue. In this tutorial you will analyze both the amount of garbage produced and material recycled in a metropolitan area: Portland, Oregon.
+
+The amount of garbage generated per person in Portland is listed below. First, let's display the information in a data table. To begin click on the first cell in the X column and enter the first year, 1990. Use the Tab key to move the cursor to the first cell in the Y column and enter the amount of garbage generated that year. Continue to use the Tab key and add the remaining data to the table.
+
+Year	Pounds of Garbage per Person
+
+1990	2285
+1991	2311
+1992	2356
+1993	2424
+1994	2511
+1995	2652
+1996	2791
+1997	3031
+1998	3094
+
+Next let's give the columns more meaningful names. To change the label on the X-column, double click on the column label "X". Click on the Column Definition tab. Enter the word "Year" in the Name field. Enter "Year" for the short name. Since there are no units, we will leave the box blank. Click Done. Change the label on the Y-column to read "Garbage" with units of "lb/person/yr". You can name both the Name and Short Name "Garbage".
+
+Continue to the next page.</TextText>
+      <StyleRun>
+	<Start> 0 </Start>
+	<End> 1231 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+  </Page>
+  <Page>
+    <ID>649 </ID>
+    <BroadcastTo>0 </BroadcastTo>
+    <Visible>0</Visible>
+    <PageTitle>Graphs</PageTitle>
+    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
+    <PageDisplayPageInfo>0 </PageDisplayPageInfo>
+    <PagePageInfo></PagePageInfo>
+    <PageGraphPaper>0 </PageGraphPaper>
+    <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
+    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
+    <PageReplayWindowPosition>0 104 708 368 851</PageReplayWindowPosition>
+    <PageTable>
+      <ID>708 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.225480556813 6.64133661327 4.60391662874 11.9794826786 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>1</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 2 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0xffff 0xcccc 0xcccc| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TableColumn> 220 1.40783753788 </TableColumn>
+      <TableColumn> 221 1.59884185606 </TableColumn>
+      <StartIndex> 0 </StartIndex>
+      <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
+    </PageTable>
+    <PageText>
+      <ID>706 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.263065409086 0.461872739726 8.24730428019 5.13039273793 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>1</BackgroundTransparent>
+      <BackgroundColor>0xe6e6 0xe4e4 0xeeee| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>1</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TextText>It's much easier to interpret data when it is displayed on a graph. To insert a graph on this page, choose Graph from the Insert menu. The graph will appear somewhere on this page. Move the mouse pointer near the edge of the graph. Notice that the pointer turns into a hand. You can now click and drag the graph to another part of the screen. You can also grab the handles around the edges of the graph to resize it.
+
+Notice that the graph was automatically set up to graph the first two columns in the data table.
+
+Continue to the next page. </TextText>
+      <StyleRun>
+	<Start> 0 </Start>
+	<End> 552 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+  </Page>
+  <Page>
+    <ID>699 </ID>
+    <BroadcastTo>0 </BroadcastTo>
+    <Visible>0</Visible>
+    <PageTitle>Examine</PageTitle>
+    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
+    <PageDisplayPageInfo>0 </PageDisplayPageInfo>
+    <PagePageInfo></PagePageInfo>
+    <PageGraphPaper>0 </PageGraphPaper>
+    <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
+    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
+    <PageReplayWindowPosition>0 104 708 368 851</PageReplayWindowPosition>
+    <PageGraphCartesian>
+      <ID>1129 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>6.26502594691 5.22600251583 14.9583333333 12.1948042818 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <GraphTitle></GraphTitle>
+      <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x2e</GraphTitleColor>
+      <GraphShowPoints>0</GraphShowPoints>
+      <GraphInterpolate>0</GraphInterpolate>
+      <GraphShowTangent>0</GraphShowTangent>
+      <GraphShowLegend>0</GraphShowLegend>
+      <GraphShowCursorStatus>1</GraphShowCursorStatus>
+      <GraphShowCursorDelta>1</GraphShowCursorDelta>
+      <GraphPlotBaseColumnID>220 </GraphPlotBaseColumnID>
+      <GraphPlotTraceIDPairs>1 220 221 </GraphPlotTraceIDPairs>
+      <LogXAxis>0</LogXAxis>
+      <LogYAxis>0</LogYAxis>
+      <LogRightYAxis>0</LogRightYAxis>
+      <GraphShowTraceErrorBars>1</GraphShowTraceErrorBars>
+      <GraphShowBaseErrorBars>1</GraphShowBaseErrorBars>
+      <GraphConnectLines>1</GraphConnectLines>
+      <GraphBarGraph>0</GraphBarGraph>
+      <BinGraphStackColumns>0</BinGraphStackColumns>
+      <GraphShowPointProtectors>1</GraphShowPointProtectors>
+      <GraphMajorTickStyle>1</GraphMajorTickStyle>
+      <GraphMajorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMajorTickColor>
+      <GraphMinorTickStyle>0</GraphMinorTickStyle>
+      <GraphMinorTickColor>0xdada 0xdada 0xdada| 0xffff 0xffffffff</GraphMinorTickColor>
+      <GraphPlotXAutoscale>0</GraphPlotXAutoscale>
+      <GraphPlotYAutoscale>0</GraphPlotYAutoscale>
+      <GraphPlotDoubleYAutoscale>3</GraphPlotDoubleYAutoscale>
+      <GraphPlotXAutoscaleOnFirstData>0</GraphPlotXAutoscaleOnFirstData>
+      <GraphPlotYAutoscaleOnFirstData>0</GraphPlotYAutoscaleOnFirstData>
+      <GraphPlotDoubleYAutoscaleOnFirstData>0</GraphPlotDoubleYAutoscaleOnFirstData>
+      <GraphPlotXAutoscaleHint>0</GraphPlotXAutoscaleHint>
+      <GraphPlotYAutoscaleHint>0</GraphPlotYAutoscaleHint>
+      <GraphPlotDoubleYAutoscaleHint>0</GraphPlotDoubleYAutoscaleHint>
+      <GraphPlotXMin>1989</GraphPlotXMin>
+      <GraphPlotXMax>1998</GraphPlotXMax>
+      <GraphPlotXTicksRotatedAngle>0</GraphPlotXTicksRotatedAngle>
+      <ShowAllValuesAsMajorTicks>0</ShowAllValuesAsMajorTicks>
+      <GraphPlotYMin>700</GraphPlotYMin>
+      <GraphPlotYMax>1400</GraphPlotYMax>
+      <GraphPlotDefaultXMin>0</GraphPlotDefaultXMin>
+      <GraphPlotDefaultXMax>10</GraphPlotDefaultXMax>
+      <GraphPlotDefaultYMin>-0.5</GraphPlotDefaultYMin>
+      <GraphPlotDefaultYMax>5.5</GraphPlotDefaultYMax>
+      <GraphPlotXLabel></GraphPlotXLabel>
+      <GraphPlotYLabel></GraphPlotYLabel>
+      <GraphDrawRainbow>0</GraphDrawRainbow>
+      <GraphPlotDoubleYAxis>0</GraphPlotDoubleYAxis>
+    </PageGraphCartesian>
+    <PageText>
+      <ID>714 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.187894344697 0.51801603885 8.07985253777 4.43683927594 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>1</BackgroundTransparent>
+      <BackgroundColor>0xe6e6 0xe4e4 0xeeee| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>1</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TextText>It would be helpful  to put a title on the graph. Double click on the graph and type in "Garbage in Portland" in the Title field of the Graph Options dialog box. You can choose the display color by pulling down the color palette next to the title.
+
+How much garbage was generated per person in 1994? You could refer to the data table, or you can estimate it from the graph. To determine the exact amount from the graph, you can use the Examine feature. Click the Examine button on the toolbar, and then move your cursor over the graph. Notice that the coordinates of each point are displayed in a helper box. (You can drag the box to a better place if needed.) At the same time, the corresponding cells in the data table are highlighted.
+
+Continue to the next page.	</TextText>
+      <StyleRun>
+	<Start> 0 </Start>
+	<End> 775 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+    <PageTable>
+      <ID>6960 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.225480556813 6.49130178434 5.78427871206 11.9794826786 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>1</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 2 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0xffff 0xcccc 0xcccc| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TableColumn> 220 1.40783753788 </TableColumn>
+      <TableColumn> 221 1.59884185606 </TableColumn>
+      <StartIndex> 0 </StartIndex>
+      <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
+    </PageTable>
+  </Page>
+  <Page>
+    <ID>738 </ID>
+    <BroadcastTo>0 </BroadcastTo>
+    <Visible>0</Visible>
+    <PageTitle>Changing Data</PageTitle>
+    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
+    <PageDisplayPageInfo>0 </PageDisplayPageInfo>
+    <PagePageInfo></PagePageInfo>
+    <PageGraphPaper>0 </PageGraphPaper>
+    <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
+    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
+    <PageReplayWindowPosition>0 104 708 368 851</PageReplayWindowPosition>
+    <PageTable>
+      <ID>6962 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.225480556813 6.43674366473 5.86634556812 11.9794826786 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>1</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 2 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0xffff 0xcccc 0xcccc| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TableColumn> 220 1.40783753788 </TableColumn>
+      <TableColumn> 221 1.59884185606 </TableColumn>
+      <StartIndex> 0 </StartIndex>
+      <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
+    </PageTable>
+    <PageGraphCartesian>
+      <ID>1128 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>6.19772704539 5.210217255 14.832955303 12.0328930817 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <GraphTitle></GraphTitle>
+      <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x2e</GraphTitleColor>
+      <GraphShowPoints>0</GraphShowPoints>
+      <GraphInterpolate>0</GraphInterpolate>
+      <GraphShowTangent>0</GraphShowTangent>
+      <GraphShowLegend>0</GraphShowLegend>
+      <GraphShowCursorStatus>1</GraphShowCursorStatus>
+      <GraphShowCursorDelta>1</GraphShowCursorDelta>
+      <GraphPlotBaseColumnID>220 </GraphPlotBaseColumnID>
+      <GraphPlotTraceIDPairs>1 220 221 </GraphPlotTraceIDPairs>
+      <LogXAxis>0</LogXAxis>
+      <LogYAxis>0</LogYAxis>
+      <LogRightYAxis>0</LogRightYAxis>
+      <GraphShowTraceErrorBars>1</GraphShowTraceErrorBars>
+      <GraphShowBaseErrorBars>1</GraphShowBaseErrorBars>
+      <GraphConnectLines>1</GraphConnectLines>
+      <GraphBarGraph>0</GraphBarGraph>
+      <BinGraphStackColumns>0</BinGraphStackColumns>
+      <GraphShowPointProtectors>1</GraphShowPointProtectors>
+      <GraphMajorTickStyle>1</GraphMajorTickStyle>
+      <GraphMajorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMajorTickColor>
+      <GraphMinorTickStyle>0</GraphMinorTickStyle>
+      <GraphMinorTickColor>0xdada 0xdada 0xdada| 0xffff 0xffffffff</GraphMinorTickColor>
+      <GraphPlotXAutoscale>0</GraphPlotXAutoscale>
+      <GraphPlotYAutoscale>0</GraphPlotYAutoscale>
+      <GraphPlotDoubleYAutoscale>3</GraphPlotDoubleYAutoscale>
+      <GraphPlotXAutoscaleOnFirstData>0</GraphPlotXAutoscaleOnFirstData>
+      <GraphPlotYAutoscaleOnFirstData>0</GraphPlotYAutoscaleOnFirstData>
+      <GraphPlotDoubleYAutoscaleOnFirstData>0</GraphPlotDoubleYAutoscaleOnFirstData>
+      <GraphPlotXAutoscaleHint>0</GraphPlotXAutoscaleHint>
+      <GraphPlotYAutoscaleHint>0</GraphPlotYAutoscaleHint>
+      <GraphPlotDoubleYAutoscaleHint>0</GraphPlotDoubleYAutoscaleHint>
+      <GraphPlotXMin>1989</GraphPlotXMin>
+      <GraphPlotXMax>1998</GraphPlotXMax>
+      <GraphPlotXTicksRotatedAngle>0</GraphPlotXTicksRotatedAngle>
+      <ShowAllValuesAsMajorTicks>0</ShowAllValuesAsMajorTicks>
+      <GraphPlotYMin>700</GraphPlotYMin>
+      <GraphPlotYMax>1400</GraphPlotYMax>
+      <GraphPlotDefaultXMin>0</GraphPlotDefaultXMin>
+      <GraphPlotDefaultXMax>10</GraphPlotDefaultXMax>
+      <GraphPlotDefaultYMin>-0.5</GraphPlotDefaultYMin>
+      <GraphPlotDefaultYMax>5.5</GraphPlotDefaultYMax>
+      <GraphPlotXLabel></GraphPlotXLabel>
+      <GraphPlotYLabel></GraphPlotYLabel>
+      <GraphDrawRainbow>0</GraphDrawRainbow>
+      <GraphPlotDoubleYAxis>0</GraphPlotDoubleYAxis>
+    </PageGraphCartesian>
+    <PageText>
+      <ID>742 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.169103958333 0.5516125297 7.15349655292 4.39475633613 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>1</BackgroundTransparent>
+      <BackgroundColor>0xe6e6 0xe4e4 0xeeee| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>1</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TextText>A supplemental report was issued with revised data for 1995. The actual amount of garbage generated per person was 2562 lb/person/yr. To change the data in the data table, click on the cell that contains the incorrect data, type in the new data and press Enter. Both the data table and the graph will reflect the corrected data.
+
+Continue to the next page.</TextText>
+      <StyleRun>
+	<Start> 0 </Start>
+	<End> 360 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+  </Page>
+  <Page>
+    <ID>7169 </ID>
+    <BroadcastTo>0 </BroadcastTo>
+    <Visible>0</Visible>
+    <PageTitle>Adding a Column</PageTitle>
+    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
+    <PageDisplayPageInfo>0 </PageDisplayPageInfo>
+    <PagePageInfo></PagePageInfo>
+    <PageGraphPaper>0 </PageGraphPaper>
+    <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
+    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
+    <PageReplayWindowPosition>0 104 708 368 851</PageReplayWindowPosition>
+    <PageTable>
+      <ID>7175 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>7.77796617414 0.50888088053 13.9308318181 10.7759105997 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>1</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 2 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0xffff 0xcccc 0xcccc| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TableColumn> 220 1.40783753788 </TableColumn>
+      <TableColumn> 221 1.59884185606 </TableColumn>
+      <StartIndex> 0 </StartIndex>
+      <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
+    </PageTable>
+    <PageText>
+      <ID>7173 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.169103958333 0.43257602751 7.15349655292 10.928423831 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>1</BackgroundTransparent>
+      <BackgroundColor>0xe6e6 0xe4e4 0xeeee| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>1</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TextText>The data you've entered so far only shows how much garbage was generated per person per year - not how much was recycled. To add a column for recycled material to the data table, choose New Manual Column from the Data menu. Enter "Recycled Material" for the column name, "Recycled" for the short name and  "lb/person/yr" for the unit. Click Done  to add the column.
+
+If the labels don't fit in the data table, grab the right boundary of the column and drag it so that it is wide enough. The data shown below are for the same set of years already in the data table. Enter the new data in the Recycled Material column.
+
+Year	Recycled Material
+
+1990	735
+1991	798
+1992	831
+1993	908
+1994	990
+1995	1127
+1996	1135
+1997	1246
+1998	1338
+
+Continue to the next page.</TextText>
+      <StyleRun>
+	<Start> 0 </Start>
+	<End> 783 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+  </Page>
+  <Page>
+    <ID>1358 </ID>
+    <BroadcastTo>0 </BroadcastTo>
+    <Visible>0</Visible>
+    <PageTitle>Displaying Data</PageTitle>
+    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
+    <PageDisplayPageInfo>0 </PageDisplayPageInfo>
+    <PagePageInfo></PagePageInfo>
+    <PageGraphPaper>0 </PageGraphPaper>
+    <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
+    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
+    <PageReplayWindowPosition>0 104 708 368 851</PageReplayWindowPosition>
+    <PageTable>
+      <ID>6964 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.225480556813 6.19123212648 5.4912041666 11.9794826786 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>1</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 2 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0xffff 0xcccc 0xcccc| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TableColumn> 220 1.40783753788 </TableColumn>
+      <TableColumn> 221 1.59884185606 </TableColumn>
+      <StartIndex> 0 </StartIndex>
+      <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
+    </PageTable>
+    <PageGraphCartesian>
+      <ID>1362 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>6.10396549237 4.95104955327 14.5399079545 11.9783349621 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <GraphTitle></GraphTitle>
+      <GraphTitleColor>0x0 0x0 0x0| 0xffff 0x2e</GraphTitleColor>
+      <GraphShowPoints>0</GraphShowPoints>
+      <GraphInterpolate>0</GraphInterpolate>
+      <GraphShowTangent>0</GraphShowTangent>
+      <GraphShowLegend>0</GraphShowLegend>
+      <GraphShowCursorStatus>1</GraphShowCursorStatus>
+      <GraphShowCursorDelta>1</GraphShowCursorDelta>
+      <GraphPlotBaseColumnID>220 </GraphPlotBaseColumnID>
+      <GraphPlotTraceIDPairs>1 220 221 </GraphPlotTraceIDPairs>
+      <LogXAxis>0</LogXAxis>
+      <LogYAxis>0</LogYAxis>
+      <LogRightYAxis>0</LogRightYAxis>
+      <GraphShowTraceErrorBars>1</GraphShowTraceErrorBars>
+      <GraphShowBaseErrorBars>1</GraphShowBaseErrorBars>
+      <GraphConnectLines>1</GraphConnectLines>
+      <GraphBarGraph>0</GraphBarGraph>
+      <BinGraphStackColumns>0</BinGraphStackColumns>
+      <GraphShowPointProtectors>1</GraphShowPointProtectors>
+      <GraphMajorTickStyle>1</GraphMajorTickStyle>
+      <GraphMajorTickColor>0xc0c0 0xc0c0 0xc0c0| 0xffff 0xffffffff</GraphMajorTickColor>
+      <GraphMinorTickStyle>0</GraphMinorTickStyle>
+      <GraphMinorTickColor>0xdada 0xdada 0xdada| 0xffff 0xffffffff</GraphMinorTickColor>
+      <GraphPlotXAutoscale>0</GraphPlotXAutoscale>
+      <GraphPlotYAutoscale>0</GraphPlotYAutoscale>
+      <GraphPlotDoubleYAutoscale>3</GraphPlotDoubleYAutoscale>
+      <GraphPlotXAutoscaleOnFirstData>0</GraphPlotXAutoscaleOnFirstData>
+      <GraphPlotYAutoscaleOnFirstData>0</GraphPlotYAutoscaleOnFirstData>
+      <GraphPlotDoubleYAutoscaleOnFirstData>0</GraphPlotDoubleYAutoscaleOnFirstData>
+      <GraphPlotXAutoscaleHint>0</GraphPlotXAutoscaleHint>
+      <GraphPlotYAutoscaleHint>0</GraphPlotYAutoscaleHint>
+      <GraphPlotDoubleYAutoscaleHint>0</GraphPlotDoubleYAutoscaleHint>
+      <GraphPlotXMin>1989</GraphPlotXMin>
+      <GraphPlotXMax>1998</GraphPlotXMax>
+      <GraphPlotXTicksRotatedAngle>0</GraphPlotXTicksRotatedAngle>
+      <ShowAllValuesAsMajorTicks>0</ShowAllValuesAsMajorTicks>
+      <GraphPlotYMin>700</GraphPlotYMin>
+      <GraphPlotYMax>1400</GraphPlotYMax>
+      <GraphPlotDefaultXMin>0</GraphPlotDefaultXMin>
+      <GraphPlotDefaultXMax>10</GraphPlotDefaultXMax>
+      <GraphPlotDefaultYMin>-0.5</GraphPlotDefaultYMin>
+      <GraphPlotDefaultYMax>5.5</GraphPlotDefaultYMax>
+      <GraphPlotXLabel></GraphPlotXLabel>
+      <GraphPlotYLabel></GraphPlotYLabel>
+      <GraphDrawRainbow>0</GraphDrawRainbow>
+      <GraphPlotDoubleYAxis>0</GraphPlotDoubleYAxis>
+    </PageGraphCartesian>
+    <PageText>
+      <ID>1368 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.225480556813 0.611416878253 7.17345912868 4.96013148416 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>1</BackgroundTransparent>
+      <BackgroundColor>0xe6e6 0xe4e4 0xeeee| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>1</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TextText>The graph currently shows the amount of garbage generated per person per year. It may be interesting to see how much material was recycled each year. To add the recycled material data to the graph,  simply click and drag the column heading for the recycled data to the middle of the graph. Both the generated and recycled garbage are displayed.
+
+Continue to the next page.</TextText>
+      <StyleRun>
+	<Start> 0 </Start>
+	<End> 376 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+  </Page>
+  <Page>
+    <ID>749 </ID>
+    <BroadcastTo>0 </BroadcastTo>
+    <Visible>0</Visible>
+    <PageTitle>Importing Data</PageTitle>
+    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
+    <PageDisplayPageInfo>0 </PageDisplayPageInfo>
+    <PagePageInfo></PagePageInfo>
+    <PageGraphPaper>0 </PageGraphPaper>
+    <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
+    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
+    <PageReplayWindowPosition>0 104 708 368 851</PageReplayWindowPosition>
+    <PageText>
+      <ID>751 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.586601920449 0.612376635418 7.19755564383 8.20851859911 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>1</BackgroundTransparent>
+      <BackgroundColor>0xe6e6 0xe4e4 0xeeee| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>1</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TextText>This is a multiple page document. You can easily add another page.
+
+1. Choose Add Page from the Page menu. The Add Page dialog box will appear.
+
+2. Choose the New Data Set and Graph option in the Starting Contents box.
+
+3. Choose the After Current Page option in the Insert New Page box.
+
+4. Enter "My Page" as the title of the new page, then choose a background color and a graph paper gridline color. You are about to add a new page to the document. Once you've viewed your new page, click on the Next Page button to complete this tutorial.</TextText>
+      <StyleRun>
+	<Start> 0 </Start>
+	<End> 558 </End>
+	<Font>
+	  <Size> 12 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+  </Page>
+  <Page>
+    <ID>10792 </ID>
+    <BroadcastTo>0 </BroadcastTo>
+    <Visible>1</Visible>
+    <PageTitle>My Page</PageTitle>
+    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0x0</PageColor>
+    <PageDisplayPageInfo>0 </PageDisplayPageInfo>
+    <PagePageInfo></PagePageInfo>
+    <PageGraphPaper>0 </PageGraphPaper>
+    <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
+    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0x0</PageGraphPaperLineColor>
+    <PageReplayWindowPosition>0 104 708 368 851</PageReplayWindowPosition>
+    <PageTable>
+      <ID>10797 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.01125 0.01125 3.09563476921 12.2918554759 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xdada 0xdada 0xdada| 0xffff 0x2a</BackgroundColor>
+      <AddNewData>1</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 2 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TableColumn> 10794 0.8 </TableColumn>
+      <TableColumn> 10795 0.8 </TableColumn>
+      <TableColumn> 220 0.8 </TableColumn>
+      <TableColumn> 221 0.8 </TableColumn>
+      <StartIndex> 0 </StartIndex>
+      <DisplayBlackAndWhite> 0 </DisplayBlackAndWhite>
+    </PageTable>
+    <PageGraphCartesian>
+      <ID>10796 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>3.12188476921 0.015 14.9433333333 12.2881054759 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>0</BackgroundTransparent>
+      <BackgroundColor>0xffff 0xffff 0xffff| 0xffff 0x0</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>0</Locked>
+      <AutoCreated>1</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 12 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <GraphTitle></GraphTitle>
+      <GraphTitleColor>0xeeee 0xaeae 0xeeee| 0xffff 0x0</GraphTitleColor>
+      <GraphShowPoints>0</GraphShowPoints>
+      <GraphInterpolate>0</GraphInterpolate>
+      <GraphShowTangent>0</GraphShowTangent>
+      <GraphShowLegend>0</GraphShowLegend>
+      <GraphShowCursorStatus>1</GraphShowCursorStatus>
+      <GraphShowCursorDelta>1</GraphShowCursorDelta>
+      <GraphPlotBaseColumnID>10794 </GraphPlotBaseColumnID>
+      <GraphPlotTraceIDPairs>1 10794 10795 </GraphPlotTraceIDPairs>
+      <LogXAxis>0</LogXAxis>
+      <LogYAxis>0</LogYAxis>
+      <LogRightYAxis>0</LogRightYAxis>
+      <GraphShowTraceErrorBars>1</GraphShowTraceErrorBars>
+      <GraphShowBaseErrorBars>1</GraphShowBaseErrorBars>
+      <GraphConnectLines>1</GraphConnectLines>
+      <GraphBarGraph>0</GraphBarGraph>
+      <BinGraphStackColumns>0</BinGraphStackColumns>
+      <GraphShowPointProtectors>0</GraphShowPointProtectors>
+      <GraphMajorTickStyle>1</GraphMajorTickStyle>
+      <GraphMajorTickColor>0x0 0x0 0x4040| 0xffff 0x0</GraphMajorTickColor>
+      <GraphMinorTickStyle>0</GraphMinorTickStyle>
+      <GraphMinorTickColor>0x0 0x4040 0x0| 0xffff 0x0</GraphMinorTickColor>
+      <GraphPlotXAutoscale>3</GraphPlotXAutoscale>
+      <GraphPlotYAutoscale>3</GraphPlotYAutoscale>
+      <GraphPlotDoubleYAutoscale>3</GraphPlotDoubleYAutoscale>
+      <GraphPlotXAutoscaleOnFirstData>0</GraphPlotXAutoscaleOnFirstData>
+      <GraphPlotYAutoscaleOnFirstData>0</GraphPlotYAutoscaleOnFirstData>
+      <GraphPlotDoubleYAutoscaleOnFirstData>0</GraphPlotDoubleYAutoscaleOnFirstData>
+      <GraphPlotXAutoscaleHint>0</GraphPlotXAutoscaleHint>
+      <GraphPlotYAutoscaleHint>0</GraphPlotYAutoscaleHint>
+      <GraphPlotDoubleYAutoscaleHint>0</GraphPlotDoubleYAutoscaleHint>
+      <GraphPlotXMin>0</GraphPlotXMin>
+      <GraphPlotXMax>100</GraphPlotXMax>
+      <GraphPlotXTicksRotatedAngle>0</GraphPlotXTicksRotatedAngle>
+      <ShowAllValuesAsMajorTicks>0</ShowAllValuesAsMajorTicks>
+      <GraphPlotYMin>0</GraphPlotYMin>
+      <GraphPlotYMax>100</GraphPlotYMax>
+      <GraphPlotDefaultXMin>0</GraphPlotDefaultXMin>
+      <GraphPlotDefaultXMax>100</GraphPlotDefaultXMax>
+      <GraphPlotDefaultYMin>0</GraphPlotDefaultYMin>
+      <GraphPlotDefaultYMax>100</GraphPlotDefaultYMax>
+      <GraphPlotXLabel></GraphPlotXLabel>
+      <GraphPlotYLabel></GraphPlotYLabel>
+      <GraphDrawRainbow>0</GraphDrawRainbow>
+      <GraphPlotDoubleYAxis>0</GraphPlotDoubleYAxis>
+    </PageGraphCartesian>
+  </Page>
+  <Page>
+    <ID>1876 </ID>
+    <BroadcastTo>0 </BroadcastTo>
+    <Visible>0</Visible>
+    <PageTitle>Conclusion</PageTitle>
+    <PageColor>0xcccc 0xcccc 0xffff| 0xffff 0xffffffff</PageColor>
+    <PageDisplayPageInfo>0 </PageDisplayPageInfo>
+    <PagePageInfo></PagePageInfo>
+    <PageGraphPaper>0 </PageGraphPaper>
+    <PageGraphPaperLineSpacing>0.25 </PageGraphPaperLineSpacing>
+    <PageGraphPaperLineColor>0x8484 0x7070 0xffff| 0xffff 0xffffffff</PageGraphPaperLineColor>
+    <PageReplayWindowPosition>0 104 708 368 851</PageReplayWindowPosition>
+    <PageText>
+      <ID>750 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>0.774605053019 0.738978086633 6.5058279166 6.43795791556 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>1</BackgroundTransparent>
+      <BackgroundColor>0xe6e6 0xe4e4 0xeeee| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>1</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 11 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <Font>
+	<Size> 11 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TextText>While this tutorial focused on entering data manually, there are other options. Rather than typing in your data, you can import data from text files such as Word or Excel. You can also import data from TI graphing calculators or Palm OS devices.  More information on these features can be found in the online help.
+
+Logger Pro is also used to collect data with the LabPro, Go!Temp, Go! Link, and Go! Motion. The second tutorial, Temperature Measurement, will introduce you to data collection.
+</TextText>
+      <StyleRun>
+	<Start> 0 </Start>
+	<End> 499 </End>
+	<Font>
+	  <Size> 11 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+    <PageText>
+      <ID>869 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>8.30524742414 5.24034065581 12.9810048484 6.36741493225 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0 0</SubordinateOffset>
+      <BackgroundTransparent>1</BackgroundTransparent>
+      <BackgroundColor>0xe6e6 0xe4e4 0xeeee| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>1</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 16 </Size>
+	<Justification> 1 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 1 1 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x4848 0x3d3d 0x8b8b| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <Font>
+	<Size> 16 </Size>
+	<Justification> 1 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 1 1 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x4848 0x3d3d 0x8b8b| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TextText>Congratulations!</TextText>
+      <StyleRun>
+	<Start> 0 </Start>
+	<End> 16 </End>
+	<Font>
+	  <Size> 16 </Size>
+	  <Justification> 1 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 1 1 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x4848 0x3d3d 0x8b8b| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+    <PageText>
+      <ID>868 </ID>
+      <BroadcastTo>0 </BroadcastTo>
+      <Visible>1</Visible>
+      <Bounds>8.73738101348 7.60768067331 13.4538387028 11.4104814117 </Bounds>
+      <SubordinateToID>0</SubordinateToID>
+      <SubordinateOffset>0.0104166666667 0</SubordinateOffset>
+      <BackgroundTransparent>1</BackgroundTransparent>
+      <BackgroundColor>0xe6e6 0xe4e4 0xeeee| 0xffff 0xffffffff</BackgroundColor>
+      <AddNewData>0</AddNewData>
+      <Locked>1</Locked>
+      <AutoCreated>0</AutoCreated>
+      <GraphLinkedIDs>0 </GraphLinkedIDs>
+      <YLinkedIDs>0 </YLinkedIDs>
+      <Font>
+	<Size> 11 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <Font>
+	<Size> 11 </Size>
+	<Justification> 0 </Justification>
+	<VerticalJustification> 0 </VerticalJustification>
+	<Styles> 0 0 0 0 0 0 </Styles>
+	<Family> 3 </Family>
+	<Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	<Name>Arial</Name>
+	<Rotation>0</Rotation>
+      </Font>
+      <TextText>You have manually entered data and worked with graphs. There are more tutorials available to teach you with some of the other features of the program. </TextText>
+      <StyleRun>
+	<Start> 0 </Start>
+	<End> 151 </End>
+	<Font>
+	  <Size> 11 </Size>
+	  <Justification> 0 </Justification>
+	  <VerticalJustification> 0 </VerticalJustification>
+	  <Styles> 0 0 0 0 0 0 </Styles>
+	  <Family> 3 </Family>
+	  <Color>0x0 0x0 0x0| 0xffff 0x0</Color>
+	  <Name>Arial</Name>
+	  <Rotation>0</Rotation>
+	</Font>
+      </StyleRun>
+      <TextMakeAllTextVisible> 1 </TextMakeAllTextVisible>
+    </PageText>
+  </Page>
+  <CurrentPageIndex>8</CurrentPageIndex>
+  <DataSet>
+    <ID>219 </ID>
+    <BroadcastTo>8 9 199 708 6960 6962 6964 7175 10797 </BroadcastTo>
+    <Visible>1</Visible>
+    <DataSetName>Data Set</DataSetName>
+    <DataSetComments></DataSetComments>
+    <DataSetSourceName></DataSetSourceName>
+    <DataSetShowInDataBrowser>1</DataSetShowInDataBrowser>
+    <DataSetHistogram>0</DataSetHistogram>
+    <DataSetFFT>0</DataSetFFT>
+    <DataSetLatest>0</DataSetLatest>
+    <DataSetAutoCreated>0</DataSetAutoCreated>
+    <DataSetStoredRun>0</DataSetStoredRun>
+    <DataSetPrediction>0</DataSetPrediction>
+    <DataSetVideoAnalysis>0</DataSetVideoAnalysis>
+    <DataSetGraphMatch>0</DataSetGraphMatch>
+    <DataColumn>
+      <ID>220 </ID>
+      <BroadcastTo>11 199 708 1128 1129 1362 6960 6962 6964 7175 10796 10797 </BroadcastTo>
+      <Visible>1</Visible>
+      <DataObjectName>X</DataObjectName>
+      <DataObjectShortName></DataObjectShortName>
+      <DataObjectColor>0x0 0x0 0x0| 0xffff 0x2e</DataObjectColor>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <DataObjectAutomaticDecimal>1</DataObjectAutomaticDecimal>
+      <DataObjectThickLines>0</DataObjectThickLines>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>0</ColumnProtected>
+      <ColumnUserEditable>1</ColumnUserEditable>
+      <ColumnTreatAsText>0</ColumnTreatAsText>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1117064051</StartTime>
+      <TimeOfDayFormat>hh:mm:ss</TimeOfDayFormat>
+      <ColumnUserCreated>1</ColumnUserCreated>
+      <ColumnPPStyle>0</ColumnPPStyle>
+      <ColumnPPSize>2</ColumnPPSize>
+      <ColumnDisplayPPInterval>1</ColumnDisplayPPInterval>
+      <ColumnDisplayPPIntervalAuto>0</ColumnDisplayPPIntervalAuto>
+      <ColumnDisplayPPFromColumn>0</ColumnDisplayPPFromColumn>
+      <ColumnDisplayPPColumnID>0</ColumnDisplayPPColumnID>
+      <ColumnUseErrorCalculations>0</ColumnUseErrorCalculations>
+      <ColumnErrorFixed>1</ColumnErrorFixed>
+      <ColumnErrorConstant>1</ColumnErrorConstant>
+      <ColumnErrorValue>0</ColumnErrorValue>
+      <ColumnErrorColumnID>2147483647</ColumnErrorColumnID>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>0</ColumnSensorInputColumn>
+      <ColumnAllowUserDelete>1</ColumnAllowUserDelete>
+      <ColumnMatchTag></ColumnMatchTag>
+      <ColumnStartCollectTime>0</ColumnStartCollectTime>
+      <ColumnGenerateValues>0</ColumnGenerateValues>
+      <ColumnGenerateType>0</ColumnGenerateType>
+      <ColumnStart>-1</ColumnStart>
+      <ColumnEnd>-1</ColumnEnd>
+      <ColumnIncrement>-1</ColumnIncrement>
+      <ColumnNameStart>0</ColumnNameStart>
+      <ColumnNumber>12</ColumnNumber>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <ColumnLastDataCollectedMode>0</ColumnLastDataCollectedMode>
+      <SensorvilleCalcEquation></SensorvilleCalcEquation>
+      <LQCalcEquationDependentStores></LQCalcEquationDependentStores>
+      <ColumnCells>
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>221 </ID>
+      <BroadcastTo>11 199 708 1128 1129 1362 6960 6962 6964 7175 10796 10797 </BroadcastTo>
+      <Visible>1</Visible>
+      <DataObjectName>Y</DataObjectName>
+      <DataObjectShortName></DataObjectShortName>
+      <DataObjectColor>0xffff 0x6666 0x0| 0xffff 0xffffffff</DataObjectColor>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <DataObjectAutomaticDecimal>0</DataObjectAutomaticDecimal>
+      <DataObjectThickLines>0</DataObjectThickLines>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>0</ColumnProtected>
+      <ColumnUserEditable>1</ColumnUserEditable>
+      <ColumnTreatAsText>0</ColumnTreatAsText>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1117064051</StartTime>
+      <TimeOfDayFormat>hh:mm:ss</TimeOfDayFormat>
+      <ColumnUserCreated>1</ColumnUserCreated>
+      <ColumnPPStyle>1</ColumnPPStyle>
+      <ColumnPPSize>2</ColumnPPSize>
+      <ColumnDisplayPPInterval>1</ColumnDisplayPPInterval>
+      <ColumnDisplayPPIntervalAuto>0</ColumnDisplayPPIntervalAuto>
+      <ColumnDisplayPPFromColumn>0</ColumnDisplayPPFromColumn>
+      <ColumnDisplayPPColumnID>0</ColumnDisplayPPColumnID>
+      <ColumnUseErrorCalculations>0</ColumnUseErrorCalculations>
+      <ColumnErrorFixed>1</ColumnErrorFixed>
+      <ColumnErrorConstant>1</ColumnErrorConstant>
+      <ColumnErrorValue>0</ColumnErrorValue>
+      <ColumnErrorColumnID>2147483647</ColumnErrorColumnID>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>0</ColumnSensorInputColumn>
+      <ColumnAllowUserDelete>1</ColumnAllowUserDelete>
+      <ColumnMatchTag></ColumnMatchTag>
+      <ColumnStartCollectTime>0</ColumnStartCollectTime>
+      <ColumnGenerateValues>0</ColumnGenerateValues>
+      <ColumnGenerateType>0</ColumnGenerateType>
+      <ColumnStart>-1</ColumnStart>
+      <ColumnEnd>-1</ColumnEnd>
+      <ColumnIncrement>-1</ColumnIncrement>
+      <ColumnNameStart>0</ColumnNameStart>
+      <ColumnNumber>12</ColumnNumber>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <ColumnLastDataCollectedMode>0</ColumnLastDataCollectedMode>
+      <SensorvilleCalcEquation></SensorvilleCalcEquation>
+      <LQCalcEquationDependentStores></LQCalcEquationDependentStores>
+      <ColumnCells>
+735
+798
+831
+908
+990
+1127
+1135
+1246
+1338
+</ColumnCells>
+    </DataColumn>
+  </DataSet>
+  <DataSet>
+    <ID>1793 </ID>
+    <BroadcastTo>1 9 </BroadcastTo>
+    <Visible>1</Visible>
+    <DataSetName>&#38;#38;#38;&#38;#38;#38;^% CurveFitFunctions %^&#38;#38;#38;&#38;#38;#38;</DataSetName>
+    <DataSetComments></DataSetComments>
+    <DataSetSourceName></DataSetSourceName>
+    <DataSetShowInDataBrowser>0</DataSetShowInDataBrowser>
+    <DataSetHistogram>0</DataSetHistogram>
+    <DataSetFFT>0</DataSetFFT>
+    <DataSetLatest>0</DataSetLatest>
+    <DataSetAutoCreated>0</DataSetAutoCreated>
+    <DataSetStoredRun>0</DataSetStoredRun>
+    <DataSetPrediction>0</DataSetPrediction>
+    <DataSetVideoAnalysis>0</DataSetVideoAnalysis>
+    <DataSetGraphMatch>0</DataSetGraphMatch>
+  </DataSet>
+  <DataSet>
+    <ID>10793 </ID>
+    <BroadcastTo>1 10797 </BroadcastTo>
+    <Visible>1</Visible>
+    <DataSetName>Data Set 2</DataSetName>
+    <DataSetComments></DataSetComments>
+    <DataSetSourceName></DataSetSourceName>
+    <DataSetShowInDataBrowser>1</DataSetShowInDataBrowser>
+    <DataSetHistogram>0</DataSetHistogram>
+    <DataSetFFT>0</DataSetFFT>
+    <DataSetLatest>0</DataSetLatest>
+    <DataSetAutoCreated>0</DataSetAutoCreated>
+    <DataSetStoredRun>0</DataSetStoredRun>
+    <DataSetPrediction>0</DataSetPrediction>
+    <DataSetVideoAnalysis>0</DataSetVideoAnalysis>
+    <DataSetGraphMatch>0</DataSetGraphMatch>
+    <DataColumn>
+      <ID>10794 </ID>
+      <BroadcastTo>2 10796 10797 </BroadcastTo>
+      <Visible>1</Visible>
+      <DataObjectName>X</DataObjectName>
+      <DataObjectShortName>x</DataObjectShortName>
+      <DataObjectColor>0x0 0x0 0x0| 0xffff 0x0</DataObjectColor>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <DataObjectAutomaticDecimal>1</DataObjectAutomaticDecimal>
+      <DataObjectThickLines>0</DataObjectThickLines>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>0</ColumnProtected>
+      <ColumnUserEditable>1</ColumnUserEditable>
+      <ColumnTreatAsText>0</ColumnTreatAsText>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1432054599</StartTime>
+      <TimeOfDayFormat>hh:mm:ss</TimeOfDayFormat>
+      <ColumnUserCreated>1</ColumnUserCreated>
+      <ColumnPPStyle>9</ColumnPPStyle>
+      <ColumnPPSize>2</ColumnPPSize>
+      <ColumnDisplayPPInterval>1</ColumnDisplayPPInterval>
+      <ColumnDisplayPPIntervalAuto>0</ColumnDisplayPPIntervalAuto>
+      <ColumnDisplayPPFromColumn>0</ColumnDisplayPPFromColumn>
+      <ColumnDisplayPPColumnID>0</ColumnDisplayPPColumnID>
+      <ColumnUseErrorCalculations>0</ColumnUseErrorCalculations>
+      <ColumnErrorFixed>1</ColumnErrorFixed>
+      <ColumnErrorConstant>1</ColumnErrorConstant>
+      <ColumnErrorValue>0</ColumnErrorValue>
+      <ColumnErrorColumnID>0</ColumnErrorColumnID>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>0</ColumnSensorInputColumn>
+      <ColumnAllowUserDelete>1</ColumnAllowUserDelete>
+      <ColumnMatchTag></ColumnMatchTag>
+      <ColumnStartCollectTime>0</ColumnStartCollectTime>
+      <ColumnGenerateValues>0</ColumnGenerateValues>
+      <ColumnGenerateType>0</ColumnGenerateType>
+      <ColumnStart>1</ColumnStart>
+      <ColumnEnd>100</ColumnEnd>
+      <ColumnIncrement>1</ColumnIncrement>
+      <ColumnNameStart>0</ColumnNameStart>
+      <ColumnNumber>10</ColumnNumber>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <ColumnLastDataCollectedMode>0</ColumnLastDataCollectedMode>
+      <SensorvilleCalcEquation></SensorvilleCalcEquation>
+      <LQCalcEquationDependentStores></LQCalcEquationDependentStores>
+      <ColumnCells>
+Z2 1:
+</ColumnCells>
+    </DataColumn>
+    <DataColumn>
+      <ID>10795 </ID>
+      <BroadcastTo>2 10796 10797 </BroadcastTo>
+      <Visible>1</Visible>
+      <DataObjectName>Y</DataObjectName>
+      <DataObjectShortName>y</DataObjectShortName>
+      <DataObjectColor>0xffff 0x0 0x3333| 0xffff 0x0</DataObjectColor>
+      <DataObjectDataSource>0</DataObjectDataSource>
+      <DataObjectPrecisionDecimal>1</DataObjectPrecisionDecimal>
+      <DataObjectPrecision>0</DataObjectPrecision>
+      <DataObjectAutomaticDecimal>1</DataObjectAutomaticDecimal>
+      <DataObjectThickLines>0</DataObjectThickLines>
+      <ColumnUnits></ColumnUnits>
+      <ColumnProtected>0</ColumnProtected>
+      <ColumnUserEditable>1</ColumnUserEditable>
+      <ColumnTreatAsText>0</ColumnTreatAsText>
+      <ColumnDataType>0</ColumnDataType>
+      <StartTime>1432054599</StartTime>
+      <TimeOfDayFormat>hh:mm:ss</TimeOfDayFormat>
+      <ColumnUserCreated>1</ColumnUserCreated>
+      <ColumnPPStyle>8</ColumnPPStyle>
+      <ColumnPPSize>2</ColumnPPSize>
+      <ColumnDisplayPPInterval>1</ColumnDisplayPPInterval>
+      <ColumnDisplayPPIntervalAuto>0</ColumnDisplayPPIntervalAuto>
+      <ColumnDisplayPPFromColumn>0</ColumnDisplayPPFromColumn>
+      <ColumnDisplayPPColumnID>0</ColumnDisplayPPColumnID>
+      <ColumnUseErrorCalculations>0</ColumnUseErrorCalculations>
+      <ColumnErrorFixed>1</ColumnErrorFixed>
+      <ColumnErrorConstant>1</ColumnErrorConstant>
+      <ColumnErrorValue>0</ColumnErrorValue>
+      <ColumnErrorColumnID>0</ColumnErrorColumnID>
+      <ColumnForceScientific>0</ColumnForceScientific>
+      <ColumnSensorColumn>0</ColumnSensorColumn>
+      <ColumnSensorInputColumn>0</ColumnSensorInputColumn>
+      <ColumnAllowUserDelete>1</ColumnAllowUserDelete>
+      <ColumnMatchTag></ColumnMatchTag>
+      <ColumnStartCollectTime>0</ColumnStartCollectTime>
+      <ColumnGenerateValues>0</ColumnGenerateValues>
+      <ColumnGenerateType>0</ColumnGenerateType>
+      <ColumnStart>1</ColumnStart>
+      <ColumnEnd>100</ColumnEnd>
+      <ColumnIncrement>1</ColumnIncrement>
+      <ColumnNameStart>0</ColumnNameStart>
+      <ColumnNumber>10</ColumnNumber>
+      <ColumnShowLiveReadout>0</ColumnShowLiveReadout>
+      <ColumnLastDataCollectedMode>0</ColumnLastDataCollectedMode>
+      <SensorvilleCalcEquation></SensorvilleCalcEquation>
+      <LQCalcEquationDependentStores></LQCalcEquationDependentStores>
+      <ColumnCells>
+Z2 1:
+</ColumnCells>
+    </DataColumn>
+  </DataSet>
+  <DataSourceServer>
+    <ID>13 </ID>
+    <BroadcastTo>0 </BroadcastTo>
+    <Visible>1</Visible>
+  </DataSourceServer>
+  <MBLBrain>
+    <MBLCollectionUserCollectMode>0</MBLCollectionUserCollectMode>
+    <MBLCollectionDropCounterMode>0</MBLCollectionDropCounterMode>
+    <MBLCollectionTimeUnit>1</MBLCollectionTimeUnit>
+    <MBLCollectionSampleAtZero>1</MBLCollectionSampleAtZero>
+    <MBLCollectionRepeat>0</MBLCollectionRepeat>
+    <MBLCollectionEnhancedTiming>0</MBLCollectionEnhancedTiming>
+    <MBLFastStart>0</MBLFastStart>
+    <MBLCollectionDeltaT>0.1</MBLCollectionDeltaT>
+    <MBLCollectionNumSamples>181</MBLCollectionNumSamples>
+    <MBLCollectionMaxDuration>18</MBLCollectionMaxDuration>
+    <MBLCollectionOversampling>1</MBLCollectionOversampling>
+    <MBLCollectionNumEWEColumns>1</MBLCollectionNumEWEColumns>
+    <MBLColumnHeader>
+      <MBLColumnHeaderName></MBLColumnHeaderName>
+      <MBLColumnHeaderShortName></MBLColumnHeaderShortName>
+      <MBLColumnHeaderUnits></MBLColumnHeaderUnits>
+    </MBLColumnHeader>
+    <MBLColumnHeader>
+      <MBLColumnHeaderName></MBLColumnHeaderName>
+      <MBLColumnHeaderShortName></MBLColumnHeaderShortName>
+      <MBLColumnHeaderUnits></MBLColumnHeaderUnits>
+    </MBLColumnHeader>
+    <MBLColumnHeader>
+      <MBLColumnHeaderName></MBLColumnHeaderName>
+      <MBLColumnHeaderShortName></MBLColumnHeaderShortName>
+      <MBLColumnHeaderUnits></MBLColumnHeaderUnits>
+    </MBLColumnHeader>
+    <MBLCollectionSelectedEventTime>0</MBLCollectionSelectedEventTime>
+    <MBLCollectionSelectedEventName></MBLCollectionSelectedEventName>
+    <MBLCollectionSelectedEventShortName></MBLCollectionSelectedEventShortName>
+    <MBLCollectionSelectedEventUnits></MBLCollectionSelectedEventUnits>
+    <MBLCollectionEndDigitalAfterNum>0</MBLCollectionEndDigitalAfterNum>
+    <MBLCollectionNumDigitalEvents>10</MBLCollectionNumDigitalEvents>
+    <MBLCollectionTriggerEnabled>0</MBLCollectionTriggerEnabled>
+    <MBLTriggerType>0</MBLTriggerType>
+    <MBLTriggerValue>10</MBLTriggerValue>
+    <MBLTriggerUseConstant>0</MBLTriggerUseConstant>
+    <MBLTriggerConstant></MBLTriggerConstant>
+    <MBLTriggerPreTriggerData>0</MBLTriggerPreTriggerData>
+    <MBLRadiationInterval>5</MBLRadiationInterval>
+    <MBLRadiationIntervalTimeUnit>1</MBLRadiationIntervalTimeUnit>
+    <MBLStoreLatestMax>0</MBLStoreLatestMax>
+    <MBLEWEAverageData>0</MBLEWEAverageData>
+    <MBLSEAverageData>0</MBLSEAverageData>
+    <MBLContinuous>0</MBLContinuous>
+    <MBLGoogleMapsMarkerOptions>0</MBLGoogleMapsMarkerOptions>
+    <MBLGoogleMapsValueColumn></MBLGoogleMapsValueColumn>
+    <MBLGoogleMapsOpenAnnotations>0</MBLGoogleMapsOpenAnnotations>
+  </MBLBrain>
+  <FileCoherence>1</FileCoherence>
+</Document>
