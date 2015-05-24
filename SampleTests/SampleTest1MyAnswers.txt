@@ -1,0 +1,49 @@
+1a
+2d
+3a
+4d
+5b
+6e
+7c
+8c
+9c
+10b
+11d
+12c
+13c
+14b
+15c
+16b
+17b
+18a
+19b
+20d
+21c
+22c
+23a
+24b
+25d
+26b
+27c
+28d
+29d
+30b
+31d
+32d
+33a
+34c
+35c
+36b
+37b
+38a
+39a
+40c
+41
+a10N
+b15n
+42 No There must be a balancing force
+43 32N
+44 Descending - during ascension the projectile is fighting gravity and
+over coming its pull downward. during descent the projectile is moving
+in the same downward direction as gravity.
+45  10 m/s^2
