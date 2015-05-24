@@ -1,0 +1,25 @@
+1d
+2a
+3c?
+4d
+5d
+6d?
+7b?
+8a
+9b?
+10d?
+11d
+12b
+13a
+14a
+15b
+16b
+17b?
+18d
+19b? throw suggest more than 9.8m/s^2
+20d 30m/s over comes 6/2 seconds movement upward then downward
+21a 50 m/s over comes 10/2 seconds movement upward then downward
+22a?
+23b?
+24c? pyth vector theory
+25c  pyth vector theory 60^2 + 80^2 = 10000 c= sqrt(10000) = 100
