@@ -1,0 +1,113 @@
+Test 1 Review Notes
+
+Speed = distance/time
+
+- instantaneus
+- average = (Vf-Vi)/2
+
+acceleration = chagen in Velocity / time
+
+Free fall
+
+g = 10m/s^2 toward the earth
+
+V = Vo + at
+from rest V = gt
+
+Distance = (1/2)gt^2 (from rest)
+
+
+Chapter 1
+How did people measure things that couldnt be measured?
+
+Scientific method....
+
+Scientific hypothesis...can be proven wrong.
+
+
+Chapter 2
+
+Coin Moon Ratio ...
+
+Hypothesis - An educated guess
+
+Theory -  a well tested large body of info...
+
+Fact - a measurement...
+
+Law - like the law of gravity....
+
+Intertia -  an objects resistance to change in motion...
+
+Motion - when there is no net external forces acting on an object?...
+
+A hockey puck sliding across the ice...
+
+Newtons first law...
+
+Inertia Video...
+
+Table Cloth...
+
+Ring...
+
+...
+
+Beaker with the index card and penny...
+
+Discuss horizontal motion of an object falling off a moving train...
+an example...
+
+Discuss the rope problems.....scafolding etc...
+
+Relative Motion...change in direction
+
+
+Vector Quantiy - Magnitude and direction
+
+Accelertation can be a vector
+
+
+Net Force - 
+
+Ropes in an angle...!!!!
+
+Support Force that is countering gravity
+
+Relative Motion
+Outside looking in...
+
+Difference between instantaneous and average speed
+
+Average Speed = total disance of total time...
+
+Isntantaneous Speed...
+
+Calculate a distance traveled 
+
+Discuss all the situation for velocity that result in accleration...
+
+Change in direction is acceleration...
+
+Calc average speed...
+
+Velocity and accleration of an object in circular motion...
+
+Calc aceleration given a change in velocity...
+
+Freefall d=(1/2)g*t^2
+
+Do in two parts if a parablola....
+dropped from rest....
+
+Practice Exam....
+
+1. Erastophenes.....used a deep well and pillar and the distance
+2. 
+
+
+
+
+
+
+
