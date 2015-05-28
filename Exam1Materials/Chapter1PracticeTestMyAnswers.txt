@@ -1,9 +1,11 @@
-1d
-2d
-3c Form a right triangle?
-4a Images of the sun
-5b
-6a
-7b
-8d
-9a
+Answer Key
+Testname: CHAPTER 1 PRACTICE
+1) D
+2) D
+3) C
+4) A
+5) B
+6) A
+7) B
+8) D
+9) A
