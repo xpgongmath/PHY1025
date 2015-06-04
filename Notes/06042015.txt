@@ -13,6 +13,13 @@ Ft =Δmv
 
 P = work/time
 
+1 joule per second = 1 watt
+1 kilowatt = 1000 watts
+
+Mechanical energy - 
+Potential
+Kinetic
+
 
 
 
