@@ -20,6 +20,15 @@ Mechanical energy -
 Potential
 Kinetic
 
+PE = mgh
+
+Energy of motion
+KE = (1/2)m * v^2
+
+Is the first deriv of impulse KE?
+
+
+Work - Energy Theorum
 
 
 
