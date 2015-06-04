@@ -25,10 +25,14 @@ PE = mgh
 Energy of motion
 KE = (1/2)m * v^2
 
-Is the first deriv of impulse KE?
+Is the first deriv of KE Impulse?
 
 
 Work - Energy Theorum
+Look at the slide
+
+
+
 
 
 
