@@ -31,6 +31,13 @@ Is the first deriv of KE Impulse?
 Work - Energy Theorum
 Look at the slide
 
+Momentum is vector
+Kinetic is scalar
+
+Machine...
+
+Efficiency (useful energy outout)/(total energy output)
+
 
 
 
