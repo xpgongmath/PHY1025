@@ -1,5 +1,6 @@
 
 
+<<<<<<< HEAD
 Newtons Second Law of Motion
 
 F = ma
@@ -33,6 +34,19 @@ abcdefghijklmnopqrstuvwxyz
 
 
 
+=======
+Momentum = mV
+
+Momentum is conserved
+
+total M initial = total M final
+
+Soap Box Derby video for class discussion
+
+Indiana Jones mine cart video for class
+
+Bowling bal newtons cradle video
+>>>>>>> origin/master
 
 
 
