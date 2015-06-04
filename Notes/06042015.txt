@@ -1,5 +1,18 @@
 Momentum...
 
+Impulse chages momentum...
+
+P = mV
+
+I = Ft
+
+Ft =Δmv
+
+2Ft = 2Δmv
+
+
+P = work/time
+
 
 
 
