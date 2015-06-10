@@ -1,0 +1,70 @@
+F  = ma
+a  = F/m
+PE = mgh
+w  = Fd
+KE = (1/2)mv^2
+p  = mv
+Pinit = Pfinal
+Energy is conserved
+
+Exam 50 questions
+scantron
+calculator
+book 4-7
+
+
+Newtons 2nd Law
+F = ma
+
+Newtons 3rd Law
+Action and Reaction 
+always in a pair
+
+Energy
+is always conserved
+work = Fd  (F = mg) related to PE
+PE = mgh
+
+Pendulum model
+
+Momentum is also conserved
+
+Energy cant be negative direction
+
+Momentum has direction (vector)
+
+Impulse = Force * time = Ft
+Ft = change in momentum
+
+Power is the rate which work is done
+
+Work Energy Theorum
+
+Machines
+Work(in) = Work(out)
+
+(F * d)in = (F * d)out
+
+Eff = (useful work) / (total energy)
+
+Support Force
+
+mass is the same 
+weight may change depending on g
+
+Free fall 
+gravity is always acting upon it
+
+Air resistence causes terminal velocity
+
+Action / Reaction
+force pairs
+
+Pythagoeran triangle for force
+
+
+
+
+
+
+
