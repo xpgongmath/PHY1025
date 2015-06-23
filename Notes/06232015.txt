@@ -1,0 +1,23 @@
+rotation 
+
+linear vs tangental speed
+
+angular momentum
+
+inertia
+
+-----||----- low
+
+-|--------|- high
+
+Gravity 
+
+Fg = (GM1M2)/r^2
+
+Circle and Eliptical
+PE
+KE
+
+areas etc...
+
+
