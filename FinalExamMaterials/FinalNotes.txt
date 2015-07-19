@@ -1,0 +1,42 @@
+F = (k * Q1 * Q2 )/(r)^2
+
+Q = 2C
+
+F = 60N
+
+E = 30 n/c
+
+E = F/q
+
+V = ?
+
+10ohms = R
+
+5A = I
+
+V = IR
+
+I = V/R
+
+P = E / time
+
+P * time = E
+
+First Quiz together
+
+then second quiz
+
+Coloum law   F = (k * Q1 * Q2)/r^2
+
+E = F/q
+
+V = ePE/q
+
+Charging by induction like lightening
+
+
+
+
+
+
+
